@@ -4,3 +4,9 @@
 [submodule "AMSITrigger"]
 	path = AMSITrigger
 	url = https://github.com/RythmStick/AMSITrigger
+[submodule "Shoggoth"]
+	path = Shoggoth
+	url = https://github.com/frkngksl/Shoggoth
+[submodule "Invoke-TheHash"]
+	path = Invoke-TheHash
+	url = https://github.com/Kevin-Robertson/Invoke-TheHash
