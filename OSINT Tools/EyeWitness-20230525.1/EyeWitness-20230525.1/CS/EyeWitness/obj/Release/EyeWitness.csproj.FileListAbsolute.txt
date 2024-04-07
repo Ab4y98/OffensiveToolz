@@ -1,0 +1,16 @@
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\bin\Release\EyeWitness.exe.config
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\bin\Release\EyeWitness.exe
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\bin\Release\EyeWitness.pdb
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\bin\Release\CommandLine.xml
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\bin\Release\Newtonsoft.Json.xml
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\bin\Release\System.Buffers.xml
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\bin\Release\System.Memory.xml
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\bin\Release\System.Net.IPNetwork.xml
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\obj\Release\EyeWitness.csproj.AssemblyReference.cache
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\obj\Release\EyeWitness.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\obj\Release\EyeWitness.csproj.CoreCompileInputs.cache
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\obj\Release\EyeWitness.csproj.Fody.CopyLocal.cache
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\obj\Release\EyeWitness.csproj.CopyComplete
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\obj\Release\EyeWitness.exe
+C:\Users\daniela\Downloads\EyeWitness-20230525.1\EyeWitness-20230525.1\CS\EyeWitness\obj\Release\EyeWitness.pdb

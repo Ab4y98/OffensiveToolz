@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <link href="/Content/css?v=WMr-pvK-ldSbNXHT-cT0d9QF2pqi7sqz_4MtKl04wlw1" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=qVODBytEBVVePTNtSFXgRX0NCEjh9U_Oj8ePaSiRcGg1"></script>
+
+</head>
+<body>
+
+    
+
+    <script src="/bundles/jquery?v=H4TUpU3xRuHjcMSda6RvHW8k3Rbq-N1mKufibZtkCIM1"></script>
+
+    
+</body>
+</html>

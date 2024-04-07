@@ -1,0 +1,9 @@
+tool:
+  - name: winPEAS
+    description: Privilege Escalation Awesome Scripts SUITE
+    gitLink: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
+    solutionPath: winPEAS\winPEAS\winPEASexe\winPEAS.sln
+    language: c#
+    plugins: RandomGuid, RandomAssemblyInfo, BuildCsharp, ConfuserEx, Donut
+    authUser:
+    authToken: 

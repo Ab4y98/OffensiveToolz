@@ -1,0 +1,19 @@
+Pragma: no-cache
+X-SharePointHealthScore: 0
+SPRequestGuid: 34c6c3a0-429d-0008-bd4a-bf3f6c550ae5
+request-id: 34c6c3a0-429d-0008-bd4a-bf3f6c550ae5
+SPRequestDuration: 230
+SPIisLatency: 0
+MicrosoftSharePointTeamServices: 16.0.0.5383
+X-Content-Type-Options: nosniff
+X-MS-InvokeApp: 1; RequireReadOnly
+X-Frame-Options: sameorigin
+Access-Control-Allow-Origin: https://services.bankjerusalem.co.il
+Strict-Transport-Security: max-age=32140800; includeSubDomains
+Cache-Control: max-age=0, no-cache, no-store
+Content-Type: text/html; charset=utf-8
+Date: Thu, 06 Jul 2023 07:59:17 GMT
+Expires: -1
+Set-Cookie: ASP.NET_SessionId=yr1ixpyrnxlvvprqww1zixao; path=/; secure; HttpOnly; SameSite=Lax,TS01a395dc=01f303b1aa622c18ff1288ca80c6d9c7b14903a8be316e67f2ed60510b216475a7aa654f7bea53b341b821529705a671703647f45a7e8de04bf680c92fe98e578bbbbfb6d9; Path=/; Domain=.services.bankjerusalem.co.il,TS01a395dc028=01d0b0e83996d069de538a592cd7432dc1918ec5b1a48f87ace6d36938d5ec40acfd10084aae5e5bf2ed4b16774c2d37d883df2c47; Path=/; Domain=.services.bankjerusalem.co.il,JsJiL=0839133988ab2800d17822bd9a34aaf3171ecfc300f0cdef05a50b10d4c735ca0279babe8acea6b116bc19eb9c9440ad; Path=/; Expires=Fri, 07 Jul 2023 07:59:18 GMT,VXpMv7bl=08715088060a10007cb0a4887e106ae085ba728afc0bae66; Path=/; Expires=Fri, 07 Jul 2023 07:59:18 GMT; HttpOnly,rAFM9Q=08715088060638009bcc8f0a02fee9256f20d37021a4e854d455c3c6db0873bf6249ac545d821f8c461c4d272d602847f43deeb53791c3eaf71d293fa81f9a64; Path=/; Expires=Fri, 07 Jul 2023 07:59:18 GMT; HttpOnly,B2htl1=08715088060d1800f026867ac66f47d020dcaf04a88652079a1b44e149e0c5a6; Path=/; Expires=Fri, 07 Jul 2023 07:59:18 GMT,XLn5VS=087150880602100039d5ec91a0964510ab63994f685054e8; Path=/,L8wXFH=0871508806052800ce4c5b3c2dc4ce1b49f18c8422849dc1102ca48f70eaf4c5c6f53fbd1056659bdd49c4f19684827f; Path=/,bfie5fB=0871508806105800cc1781bf5dd5a74770cb5945c497472e4dd047c5a8c701efbf5842f609e2e5bfc6f267eb434287d7766e09e46ae0b2500671b7703b8e30464de81679186bb68b731819412c31dcb6625958346a83a71f7bb2132f837ea7bd; Path=/; Expires=Fri, 07 Jul 2023 07:59:18 GMT
+Transfer-Encoding: chunked
+

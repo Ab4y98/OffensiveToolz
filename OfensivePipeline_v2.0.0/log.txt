@@ -1,0 +1,106 @@
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 	Searching GUIDs...
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 		> C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt.sln
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 		> C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Seatbelt.csproj
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 		> C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Properties\AssemblyInfo.cs
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 	Replacing GUIDs...
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 		File C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt.sln:
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID FAE04EC0-301F-11D3-BF4B-00C04F79EFBC with cdee967e-aed5-4259-bb90-7a260ca506d9
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID aec32155-d589-4150-8fe7-2900df4554c8 with 1994ed4a-1a54-4ba7-81f7-04817b2adf80
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID 582494D9-B9F0-40F9-B7B3-4483685E6732 with b46d4adb-79b4-45ed-904b-414e71716a18
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID AEC32155-D589-4150-8FE7-2900DF4554C8 with 5bd53afa-9865-4097-9d7a-6c580713359e
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 		[+] No errors!
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 		File C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Seatbelt.csproj:
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID FAE04EC0-301F-11D3-BF4B-00C04F79EFBC with cdee967e-aed5-4259-bb90-7a260ca506d9
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID aec32155-d589-4150-8fe7-2900df4554c8 with 1994ed4a-1a54-4ba7-81f7-04817b2adf80
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID 582494D9-B9F0-40F9-B7B3-4483685E6732 with b46d4adb-79b4-45ed-904b-414e71716a18
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID AEC32155-D589-4150-8FE7-2900DF4554C8 with 5bd53afa-9865-4097-9d7a-6c580713359e
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 		[+] No errors!
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 		File C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Properties\AssemblyInfo.cs:
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID FAE04EC0-301F-11D3-BF4B-00C04F79EFBC with cdee967e-aed5-4259-bb90-7a260ca506d9
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID aec32155-d589-4150-8fe7-2900df4554c8 with 1994ed4a-1a54-4ba7-81f7-04817b2adf80
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID 582494D9-B9F0-40F9-B7B3-4483685E6732 with b46d4adb-79b4-45ed-904b-414e71716a18
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 			> Replacing GUID AEC32155-D589-4150-8FE7-2900DF4554C8 with 5bd53afa-9865-4097-9d7a-6c580713359e
+9/5/2023 5:45:20 PM [INFO] RandomGuid - Run -- 		[+] No errors!
+9/5/2023 5:45:20 PM [INFO] RandomAssemblyInfo - Run -- 	Replacing strings in C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Properties\AssemblyInfo.cs
+9/5/2023 5:45:20 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyTitle("Seatbelt")] -> [assembly: AssemblyTitle("oiq2ccv3anm")]
+9/5/2023 5:45:20 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyDescription("")] -> [assembly: AssemblyDescription("")]
+9/5/2023 5:45:20 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyConfiguration("")] -> [assembly: AssemblyConfiguration("")]
+9/5/2023 5:45:20 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyCompany("")] -> [assembly: AssemblyCompany("")]
+9/5/2023 5:45:20 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyProduct("Seatbelt")] -> [assembly: AssemblyProduct("oiq2ccv3anm")]
+9/5/2023 5:45:20 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyCopyright("Copyright ©  2018")] -> [assembly: AssemblyCopyright("Copyright ©  2021")]
+9/5/2023 5:45:20 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyTrademark("")] -> [assembly: AssemblyTrademark("")]
+9/5/2023 5:45:20 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyCulture("")] -> [assembly: AssemblyCulture("")]
+9/5/2023 5:45:20 PM [INFO] BuildCsharp - CheckStart -- 	[*] Downloading nuget.exe from https://dist.nuget.org/win-x86-commandline/latest/nuget.exe
+9/5/2023 5:45:25 PM [INFO] BuildCsharp - CheckStart -- 		[+] Download OK - nuget.exe
+9/5/2023 5:45:25 PM [ERROR] BuildCsharp - CheckStart -- 		[-] File not found: C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\VsDevCmd.bat
+9/5/2023 5:45:25 PM [ERROR] LaunchPipeline -- Error processing Seatbelt
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 	Searching GUIDs...
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 		> C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt.sln
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 		> C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Seatbelt.csproj
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 		> C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Properties\AssemblyInfo.cs
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 	Replacing GUIDs...
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 		File C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt.sln:
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID FAE04EC0-301F-11D3-BF4B-00C04F79EFBC with 077fe95f-171f-4309-861d-8d5dc1118e68
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID 582494D9-B9F0-40F9-B7B3-4483685E6732 with 67531715-4f7b-4f26-a020-8d7c875b7842
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID aec32155-d589-4150-8fe7-2900df4554c8 with 2a2578ac-e6d0-494d-8c1d-bf2faf290667
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID AEC32155-D589-4150-8FE7-2900DF4554C8 with e5add4a4-750a-4f32-96f2-87fa09d4d4ec
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 		[+] No errors!
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 		File C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Seatbelt.csproj:
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID FAE04EC0-301F-11D3-BF4B-00C04F79EFBC with 077fe95f-171f-4309-861d-8d5dc1118e68
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID 582494D9-B9F0-40F9-B7B3-4483685E6732 with 67531715-4f7b-4f26-a020-8d7c875b7842
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID aec32155-d589-4150-8fe7-2900df4554c8 with 2a2578ac-e6d0-494d-8c1d-bf2faf290667
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID AEC32155-D589-4150-8FE7-2900DF4554C8 with e5add4a4-750a-4f32-96f2-87fa09d4d4ec
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 		[+] No errors!
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 		File C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Properties\AssemblyInfo.cs:
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID FAE04EC0-301F-11D3-BF4B-00C04F79EFBC with 077fe95f-171f-4309-861d-8d5dc1118e68
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID 582494D9-B9F0-40F9-B7B3-4483685E6732 with 67531715-4f7b-4f26-a020-8d7c875b7842
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID aec32155-d589-4150-8fe7-2900df4554c8 with 2a2578ac-e6d0-494d-8c1d-bf2faf290667
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 			> Replacing GUID AEC32155-D589-4150-8FE7-2900DF4554C8 with e5add4a4-750a-4f32-96f2-87fa09d4d4ec
+9/6/2023 12:48:39 PM [INFO] RandomGuid - Run -- 		[+] No errors!
+9/6/2023 12:48:39 PM [INFO] RandomAssemblyInfo - Run -- 	Replacing strings in C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Properties\AssemblyInfo.cs
+9/6/2023 12:48:39 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyTitle("Seatbelt")] -> [assembly: AssemblyTitle("qd0c3fqcgrg")]
+9/6/2023 12:48:39 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyDescription("")] -> [assembly: AssemblyDescription("")]
+9/6/2023 12:48:39 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyConfiguration("")] -> [assembly: AssemblyConfiguration("")]
+9/6/2023 12:48:39 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyCompany("")] -> [assembly: AssemblyCompany("")]
+9/6/2023 12:48:39 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyProduct("Seatbelt")] -> [assembly: AssemblyProduct("qd0c3fqcgrg")]
+9/6/2023 12:48:39 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyCopyright("Copyright ©  2018")] -> [assembly: AssemblyCopyright("Copyright ©  2020")]
+9/6/2023 12:48:39 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyTrademark("")] -> [assembly: AssemblyTrademark("")]
+9/6/2023 12:48:39 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyCulture("")] -> [assembly: AssemblyCulture("")]
+9/6/2023 12:48:39 PM [INFO] BuildCsharp - CheckStart -- 		[+] Download OK - nuget.exe
+9/6/2023 12:48:39 PM [ERROR] BuildCsharp - CheckStart -- 		[-] File not found: C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\VsDevCmd.bat
+9/6/2023 12:48:39 PM [ERROR] LaunchPipeline -- Error processing Seatbelt
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 	Searching GUIDs...
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 		> C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt.sln
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 		> C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Seatbelt.csproj
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 		> C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Properties\AssemblyInfo.cs
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 	Replacing GUIDs...
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 		File C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt.sln:
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID FAE04EC0-301F-11D3-BF4B-00C04F79EFBC with a84f8f2b-6e4c-4f61-b696-ae0780004d94
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID 582494D9-B9F0-40F9-B7B3-4483685E6732 with 4f33e078-f2a6-48a4-b8da-cb20600217d9
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID aec32155-d589-4150-8fe7-2900df4554c8 with cdb4068d-8001-4157-b255-7ac18e3825bf
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID AEC32155-D589-4150-8FE7-2900DF4554C8 with 84d51856-ef36-4fc3-bb42-530f2a4fff09
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 		[+] No errors!
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 		File C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Seatbelt.csproj:
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID FAE04EC0-301F-11D3-BF4B-00C04F79EFBC with a84f8f2b-6e4c-4f61-b696-ae0780004d94
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID 582494D9-B9F0-40F9-B7B3-4483685E6732 with 4f33e078-f2a6-48a4-b8da-cb20600217d9
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID aec32155-d589-4150-8fe7-2900df4554c8 with cdb4068d-8001-4157-b255-7ac18e3825bf
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID AEC32155-D589-4150-8FE7-2900DF4554C8 with 84d51856-ef36-4fc3-bb42-530f2a4fff09
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 		[+] No errors!
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 		File C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Properties\AssemblyInfo.cs:
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID FAE04EC0-301F-11D3-BF4B-00C04F79EFBC with a84f8f2b-6e4c-4f61-b696-ae0780004d94
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID 582494D9-B9F0-40F9-B7B3-4483685E6732 with 4f33e078-f2a6-48a4-b8da-cb20600217d9
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID aec32155-d589-4150-8fe7-2900df4554c8 with cdb4068d-8001-4157-b255-7ac18e3825bf
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 			> Replacing GUID AEC32155-D589-4150-8FE7-2900DF4554C8 with 84d51856-ef36-4fc3-bb42-530f2a4fff09
+9/6/2023 12:50:25 PM [INFO] RandomGuid - Run -- 		[+] No errors!
+9/6/2023 12:50:25 PM [INFO] RandomAssemblyInfo - Run -- 	Replacing strings in C:\Users\daniela\Downloads\random tools\OfensivePipeline_v2.0.0\Git\Seatbelt\Seatbelt\Properties\AssemblyInfo.cs
+9/6/2023 12:50:25 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyTitle("Seatbelt")] -> [assembly: AssemblyTitle("glx2yo3xh5x")]
+9/6/2023 12:50:25 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyDescription("")] -> [assembly: AssemblyDescription("")]
+9/6/2023 12:50:25 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyConfiguration("")] -> [assembly: AssemblyConfiguration("")]
+9/6/2023 12:50:25 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyCompany("")] -> [assembly: AssemblyCompany("")]
+9/6/2023 12:50:25 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyProduct("Seatbelt")] -> [assembly: AssemblyProduct("glx2yo3xh5x")]
+9/6/2023 12:50:25 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyCopyright("Copyright ©  2018")] -> [assembly: AssemblyCopyright("Copyright ©  2021")]
+9/6/2023 12:50:25 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyTrademark("")] -> [assembly: AssemblyTrademark("")]
+9/6/2023 12:50:25 PM [INFO] RandomAssemblyInfo - Run -- 		[assembly: AssemblyCulture("")] -> [assembly: AssemblyCulture("")]
+9/6/2023 12:50:25 PM [INFO] BuildCsharp - CheckStart -- 		[+] Download OK - nuget.exe
+9/6/2023 12:50:25 PM [ERROR] BuildCsharp - CheckStart -- 		[-] File not found: C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\VsDevCmd.bat
+9/6/2023 12:50:25 PM [ERROR] LaunchPipeline -- Error processing Seatbelt

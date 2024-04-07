@@ -1,0 +1,15 @@
+Access-Control-Allow-Origin: https://easyway.bankjerusalem.co.il
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-site
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=32140800; includeSubDomains
+Accept-Ranges: bytes
+Content-Length: 426
+Content-Type: text/html
+Date: Thu, 06 Jul 2023 07:59:17 GMT
+ETag: "18a3f4f38efdd41:0"
+Last-Modified: Sun, 28 Apr 2019 06:52:32 GMT
+Set-Cookie: AWS=rd1o00000000000000000000ffff0a320825o443; path=/; Httponly; Secure,TS015f66bd=01f303b1aa1ad620ef20f70f190b64c37df1429ded506b8e8500d579be2c9a7af8a090791fc5b89873ee2200ffd828d4ad226fa2215b5e38b9885b8eb1f1c8e37cc32cf2ee; Path=/
+

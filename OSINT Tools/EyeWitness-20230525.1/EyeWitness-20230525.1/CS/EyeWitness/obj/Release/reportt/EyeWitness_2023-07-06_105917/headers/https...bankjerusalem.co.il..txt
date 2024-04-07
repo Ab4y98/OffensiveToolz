@@ -1,0 +1,7 @@
+Connection: close
+Pragma: no-cache
+Strict-Transport-Security: max-age=32140800; includeSubDomains
+Content-Length: 32971
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+

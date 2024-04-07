@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="he">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        var language = localStorage.getItem("language");
+        if (language) {
+            window.location.href = "/" + JSON.parse(language).domain + "/login";
+        } else {
+            window.location.href = "/he/login";
+        }
+    </script>
+</body>
+
+</html>

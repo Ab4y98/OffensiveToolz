@@ -1,0 +1,947 @@
+
+
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>×‘× ×§××•×ª ×ž×©×œ×™×ž×” - ×‘× ×§ ×™×¨×•×©×œ×™×</title>
+    <meta http-equiv="content-language" content="he">
+    <link rel="canonical" href="https://www.bankjerusalem.co.il/" />
+    <link rel="shortcut icon" href="/images/favicon/favicon.ico" />
+
+    <meta name="description" content="×‘× ×§ ×™×¨×•×©×œ×™× ×ž×¦×™×¢ ×ž×’×•×•×Ÿ ×ž×•×¦×¨×™× ×ž×©×œ×™×ž×™× ×œ×œ×§×•×—×•×ª ×›×œ ×”×‘× ×§×™×. ×ª×•×›×œ ×œ×”×’×™×© ×‘×§×©×” ×œ×”×œ×•×•××”, ×ž×©×›× ×ª× ××•× ×œ×™×™×Ÿ ×•×œ×¤×ª×•×— ×¤×™×§×“×•×Ÿ. ×œ× ×ž×©× ×” ×‘××™×–×” ×‘× ×§ ××ª×”, ×™×© ×œ× ×• ×ž×” ×œ×”×¦×™×¢ ×œ×š!">
+    <meta name="keywords" content="×‘× ×§ ×™×¨×•×©×œ×™×, ×‘× ×§, ×¤×ª×™×—×ª ×—×©×‘×•×Ÿ ×‘× ×§">
+    
+
+<link href="/bundels/rtl-css?v=87YFsML1_136TsOXS1p2HoBsPykTGrn0wggrMgKAxVM1" rel="stylesheet"/>
+
+<script type="text/javascript">
+//<![CDATA[
+window["_tsbp_"] = { ba : "X-TS-BP-Action", bh : "X-TS-AJAX-Request"};
+//]]>
+</script><script type="text/javascript" src="/TSbd/086229b7b6ab20003ce02979178952ec31250c9d36f6aff64f2e4a6feb5dd95f35e255bd786ca78f?type=2"></script><script src="/bundels/scripts?v=GEAnWb6hTB0SiW-qSbgCXNQZRRtDk8xvzMr0oQ9PBFE1"></script>
+    <script src="https://www.youtube.com/iframe_api"></script>
+        <script type="text/javascript" src="https://cdn.glassboxcdn.com/jbnk/detector-dom.min.js?rev=6.3.88B112" id="_cls_detector" async="" data-clsconfig="reportURI=https://report.jbnk.glassboxdigital.io/glassbox/reporting/3d210d0f-7837-48e2-8a6e-52ad0f9608c0/cls_report;recordErrors=true;recordScrolls=true;recordMouseMoves=true;"></script>
+    <meta property="og:site_name" content="×‘× ×§ ×™×¨×•×©×œ×™×" />
+    <meta property="og:url" content="https://www.bankjerusalem.co.il/" />
+    <meta property="og:title" content="×‘× ×§××•×ª ×ž×©×œ×™×ž×”" />
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+                var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-KLCKCT');
+        </script>
+        <!-- Google Analytics start -->
+        <script>if (window.location.href.indexOf('services.') == -1) { (function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', 'https://www.bankjerusalem.co.il/Scripts/External/analytics.js', 'ga'); ga('create', 'UA-49042624-2', 'auto'); ga('require', 'displayfeatures'); ga('send', 'pageview'); }</script>
+        <!-- Google Analytics end -->
+    <meta name="google-site-verification" content="wlVyc6t0P2h5Of-0Ml6GEFnvQ-yS1JrjWQShfV97SE4" />
+</head>
+<body>
+    <script>
+        var titleofDropDownListV2 = '× ×•×•×˜ ×¢× ×—×™×¦×™× ×œ×¨×©×™×ž×” ×”× ×¤×ª×—×ª ×•×‘×—×¨ ××ª ×”××•×¤×¦×™×™×” ×”×¨×œ×•×•× ×˜×™×ª ×¢×‘×•×¨×š';
+        var chooseinDropdownofCustomStyleForm = '--×‘×—×¨--';
+    </script>
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KLCKCT" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+        </noscript>
+        <div id="wrapper">
+        <header id="header">
+            <div class="top clearfix">
+                <div class="enter">
+                    <a href="https://services.bankjerusalem.co.il/Pages/Login.aspx" class="login">×›× ×™×¡×” ×œ×—×©×‘×•×Ÿ </a>
+                    <span></span>
+                </div>
+                <div class="left">
+                        <a href="#" class="access" role="button" tabindex="0" aria-label="×¡×¨×’×œ × ×’×™×©×•×ª ×œ×©×™× ×•×™ × ×™×’×•×“×™×•×ª ×”××ª×¨">× ×’×™×©×•×ª<span class="access-ico"></span> </a>
+
+
+                    <a href="/en" class="lang"><span class="lang-ico"></span>ENGLISH</a>
+                    
+                </div>
+            </div>
+            <div class="holder">
+                        <style>
+                        .logo {
+                            background: url(/media/2780/logosvg_247x38-hebrew.svg) no-repeat;
+                        }
+                        .scrolled .logo {
+                            background: url(/media/2780/logosvg_247x38-hebrew.svg?width=190&height=30) no-repeat;
+                        }
+                        @media screen and (max-width: 1199px) {
+                            .scrolled .logo, .logo {
+                                background: url(/media/2780/logosvg_247x38-hebrew.svg?width=140&height=22) no-repeat;
+                            }
+                        }
+
+                        @media screen and (max-width: 991px) {
+
+                            .logo, .scrolled .logo {
+                                background: url(/media/2780/logosvg_247x38-hebrew.svg?width=124&height=19) no-repeat;
+                            }
+                        }
+                        </style>
+
+
+                <strong class="logo"><a href="/" aria-label="×‘× ×§ ×™×¨×•×©×œ×™×-×§×™×©×•×¨ ×œ×“×£ ×”×‘×™×ª">×‘× ×§ ×™×¨×•×©×œ×™×</a></strong>
+                <div id="container-main-nav" class="container">
+
+                    <nav id="main-nav">
+                        
+
+
+        <ul>
+                <li>
+                    <div class="border-nav"><a href="/loans">×”×œ×•×•××•×ª</a></div>
+
+                    
+                </li>
+                <li>
+                    <div class="border-nav"><a href="/mortgage">×ž×©×›× ×ª×</a></div>
+
+                    
+                </li>
+                <li>
+                    <div class="border-nav"><a href="/deposits-savings">×¤×™×§×“×•× ×•×ª</a></div>
+
+                    
+                </li>
+                <li>
+                    <div class="border-nav"><a href="/prepaid">×›×¨×˜×™×¡ × ×˜×¢×Ÿ</a></div>
+
+                    
+                </li>
+                <li>
+                    <div class="border-nav"><a href="/capital-market">×©×•×§ ×”×”×•×Ÿ</a></div>
+
+                    
+                </li>
+                <li>
+                    <div class="border-nav"><a href="/realestatelobby">× ×“×œ&quot;×Ÿ</a></div>
+
+                    
+                </li>
+        </ul>
+
+
+
+
+                        
+<ul class="actions hidden-xs hidden-sm">
+                <li class="top-links">
+                    <a class="branch" href="/branches">
+                        ×¡× ×™×¤×™×
+                    </a>
+                </li>
+                <li class="top-links">
+                    <a class="branch" href="/support">
+                        ×™×¦×™×¨×ª ×§×©×¨
+                    </a>
+                </li>
+    <li><a class="search" href="#" role="button" aria-label="×¤×ª×— ×¨×›×™×‘ ×—×™×¤×•×©"><span class="search-ico" aria-hidden="true"></span>×—×™×¤×•×©</a></li>
+    <li><a class="help" href="#" role="button"><span class="help-ico" aria-hidden="true"></span>×“×‘×¨ ××™×ª× ×•</a></li>
+</ul>
+
+
+<ul class="actions visible-xs visible-sm">
+
+    <li><a class="branch" href="/branches">×¡× ×™×¤×™× <span class="branch-ico" aria-hidden="true"></span></a></li>
+    <li><a class="search" href="#" role="button" aria-label="×¤×ª×— ×¨×›×™×‘ ×—×™×¤×•×©">×—×™×¤×•×©<span class="search-ico" aria-hidden="true"></span></a></li>
+    <li><a class="help" href="#" role="button">×“×‘×¨ ××™×ª× ×•<span class="help-ico" aria-hidden="true"></span></a></li>
+</ul>
+
+<ul class="scroll-actions">
+    <li><a class="language" href="/">×¢×‘×¨×™×ª</a></li>
+    <li><a class="search" href="#" role="button" aria-label="×¤×ª×— ×¨×›×™×‘ ×—×™×¤×•×©">×—×™×¤×•×©</a></li>
+    <li><a class="user" href="https://services.bankjerusalem.co.il/Pages/Login.aspx">×›× ×™×¡×”</a></li>
+    <li><a class="help" href="#" role="button">×“×‘×¨ ××™×ª× ×•</a></li>
+</ul>
+
+                    </nav>
+                </div>
+            </div>
+            <div class="search-form">
+                <form action="/search" method="get">
+                    <label for="lbl-search" class="hidden">×”×§×œ×“ ×˜×§×¡×˜ ×œ×—×™×¤×•×©</label>
+                    <input id="lbl-search" type="search" class="input-search" name="q" maxlength="50" placeholder="×”×§×œ×“ ×˜×§×¡×˜ ×œ×—×™×¤×•×©">
+                    <input type="submit" value="submit" class="hidden">
+                </form>
+                <a href="#" class="btn-close" title="×¡×’×•×¨">×¡×’×•×¨</a>
+            </div>
+            <div class="help-box">
+                <div class="container">
+                    <strong class="ttl">××™×š ××¤×©×¨ ×œ×¢×–×•×¨?</strong>
+                    
+
+<ul class="help-list">
+
+    <li class="">
+        <a class="desktop" href="/support">
+
+                <span class="ico">
+                    <img src="/media/2156/ico-help-01.png" alt="">
+                </span>
+
+            <span class="txt">×“×‘×¨ ××™×ª× ×• </span>
+
+            <span class="phone-number-helpbox"><span>5727*</span></span>
+        </a>
+
+        <a class="MobileLink hide" href="tel:*5727">
+                <span class="ico">
+                    <img src="/media/2156/ico-help-01.png" alt="">
+                </span>
+            <span class="txt">×“×‘×¨ ××™×ª× ×• </span>
+
+            <span class="phone-number-helpbox"><span>5727*</span></span>
+        </a>
+    </li>
+            <li class="">
+                <a class="desktop" href="/support/sms">
+
+                        <span class="ico">
+                            <img src="/media/3418/iphone-sms-png.png" alt="">
+                        </span>
+                    <span class="txt">×”×ª×›×ª×‘ ×¢× ×‘× ×§××™ ×‘SMS</span>
+                </a>
+                <a class="MobileLink hide" href="sms://0528309712">
+
+                        <span class="ico">
+                            <img src="/media/3418/iphone-sms-png.png" alt="">
+                        </span>
+                    <span class="txt">×”×ª×›×ª×‘ ×¢× ×‘× ×§××™ ×‘SMS</span>
+                </a>
+            </li>
+            <li class="">
+                <a class="desktop" href="javascript:void(0)" streamId="T4fifPCLDxxQdt8q5tnElg%3d%3d">
+
+                        <span class="ico">
+                            <img src="/media/3420/bankai-png.png" alt="">
+                        </span>
+                    <span class="txt">×¦'××˜ ×¢× ×‘× ×§××™</span>
+                </a>
+                <a class="MobileLink hide" href="javascript:void(0)" streamId="T4fifPCLDxxQdt8q5tnElg%3d%3d">
+
+                        <span class="ico">
+                            <img src="/media/3420/bankai-png.png" alt="">
+                        </span>
+                    <span class="txt">×¦'××˜ ×¢× ×‘× ×§××™</span>
+                </a>
+            </li>
+</ul>
+
+                    <div class="social-col">
+                        <span>
+                            
+                        </span>
+                        
+
+<ul>
+</ul>
+
+
+                    </div>
+                </div>
+                <a href="#" class="btn-close">×¡×’×•×¨</a>
+            </div>
+        </header>
+
+
+        
+
+
+
+
+    <div class="umb-grid">
+                <div class="grid-section">
+    <div class="full-width">
+        <div class='container'>
+        <div class="row clearfix">
+                <div class="col-md-12 column">
+                        <div >
+                                        
+
+<div class="main-gallery" data-next-slide="">
+
+        <div class="slide" data-interval="5000">
+                    <div class="visual type-home">
+                                <div class="img" aria-label="image">
+            <img class="img-responsive" aria-label="image" src="/media/5278/banner_haretz_4.png" alt="">
+        </div>
+    <div class="txt">
+        <div>×¢×•"×©, × ×• ×‘××ž×ª...</div>
+<p>×–×” ×”×–×ž×Ÿ ×œ×”×•×¦×™× ××ª ×”×›×¡×£ ×ž×”×¢×•"×© ×œ×¤×™×§×“×•×Ÿ ××¨×¥!</p>
+                    <a href="https://www.bankjerusalem.co.il/savingsanddeposits/Pages/pikadon-online.aspx#/form?stage=1&amp;lobby=1&amp;product=18&amp;depositType=one&amp;color=#7d5d93" class="btn btn-warning">×œ×¤×™×§×“×•×Ÿ ×“×™×’×™×˜×œ×™</a>
+
+    </div>
+
+                                        <div class="message hidden-xs">
+                    <div class="container">
+                        <div class="">
+                                <span>×›×œ ×”×¤×¢×•×œ×•×ª ×©× ×™×ª×Ÿ ×œ×‘×¦×¢ ×‘×¢×¨×•×¦×™ ×”×©×™×¨×•×ªÂ ×©×œ× ×•</span>
+                                    <a href="/others/channels" class="">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×ž×§×œ×™× ×¢×œ×™×›×Â ×œ×”×ª×ž×•×“×“ ×¢× ×”×—×–×¨×™ ×”×ž×©×›× ×ª× ×‘×¢×œ×™×™×ª ×”×¨×™×‘×™×ª</span>
+                                    <a href="/others/messages" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×©×™× ×•×™×™× ×‘×¢×œ×•×ª ×”××©×¨××™ ×•×‘×¨×™×‘×™×ª ×–×›×•×ª ×‘×¢×•"×©</span>
+                                    <a href="/others/messages" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×©×™× ×•×™×™× ×‘×ª×¢×¨×™×¤×•× ×™Â ×”×¢×ž×œ×•×ª ×©×œ ×”×‘× ×§</span>
+                                    <a href="/others/changes" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×¨×¤×•×¨×ž×ª ×‘×™×˜×•×œ ×¨×™×‘×™×•×ª ×”×œ×™×‘×•×¨</span>
+                                    <a href="/forex/libor" class="">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×œ×—×©×‘×•×Ÿ ×¢×•×‘×¨ ×•×©×‘</span>
+                                    <a href="/current-account" class="">×œ×—×¥ ×›××Ÿ</a>
+                        </div>
+                    </div>
+                </div>
+
+                    </div>
+        </div>
+        <div class="slide" data-interval="5000">
+                    <div class="visual type-home">
+                                <div class="img" aria-label="image">
+            <img class="img-responsive" aria-label="image" src="/media/5184/mortgage-2022-1920-778.png" alt="">
+        </div>
+    <div class="txt">
+        <div>×™×© ×œ×›× × ×›×¡?</div>
+<p>×™×© ×œ×›× ××¤×©×¨×•×ª ×œ×”×œ×•×•××” ×¢×œ ×”× ×›×¡!</p>
+                    <a href="https://www.bankjerusalem.co.il/mortgage/go_mortgage/" class="btn btn-warning">×œ×”×’×©×ª ×‘×§×©×”</a>
+
+    </div>
+
+                                        <div class="message hidden-xs">
+                    <div class="container">
+                        <div class="">
+                                <span>×›×œ ×”×¤×¢×•×œ×•×ª ×©× ×™×ª×Ÿ ×œ×‘×¦×¢ ×‘×¢×¨×•×¦×™ ×”×©×™×¨×•×ªÂ ×©×œ× ×•</span>
+                                    <a href="/others/channels" class="">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×ž×§×œ×™× ×¢×œ×™×›×Â ×œ×”×ª×ž×•×“×“ ×¢× ×”×—×–×¨×™ ×”×ž×©×›× ×ª× ×‘×¢×œ×™×™×ª ×”×¨×™×‘×™×ª</span>
+                                    <a href="/others/messages" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×©×™× ×•×™×™× ×‘×¢×œ×•×ª ×”××©×¨××™ ×•×‘×¨×™×‘×™×ª ×–×›×•×ª ×‘×¢×•"×©</span>
+                                    <a href="/others/messages" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×©×™× ×•×™×™× ×‘×ª×¢×¨×™×¤×•× ×™Â ×”×¢×ž×œ×•×ª ×©×œ ×”×‘× ×§</span>
+                                    <a href="/others/changes" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×¨×¤×•×¨×ž×ª ×‘×™×˜×•×œ ×¨×™×‘×™×•×ª ×”×œ×™×‘×•×¨</span>
+                                    <a href="/forex/libor" class="">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×œ×—×©×‘×•×Ÿ ×¢×•×‘×¨ ×•×©×‘</span>
+                                    <a href="/current-account" class="">×œ×—×¥ ×›××Ÿ</a>
+                        </div>
+                    </div>
+                </div>
+
+                    </div>
+        </div>
+        <div class="slide" data-interval="5000">
+                    <div class="visual type-home">
+                                <div class="img" aria-label="image">
+            <img class="img-responsive" aria-label="image" src="/media/4511/loans-signs-1920-778.jpg" alt="">
+        </div>
+    <div class="txt">
+        <div>×”×œ×•×•××”Â ×˜×•×‘×” ×™×¨×•×©×œ×™×</div>
+<p>×¢×“ 200,000 ×©"×—, ×œ×œ×§×•×—×•×ª ×›×œ ×”×‘× ×§×™×</p>
+                    <a href="https://www.bankjerusalem.co.il/loans/pages/consumercreditsimulator.aspx?proposal=0#!/form?step=1" class="btn btn-warning">×œ×”×’×©×ª ×‘×§×©×” ×œ×”×œ×•×•××”</a>
+
+    </div>
+
+                                        <div class="message hidden-xs">
+                    <div class="container">
+                        <div class="">
+                                <span>×›×œ ×”×¤×¢×•×œ×•×ª ×©× ×™×ª×Ÿ ×œ×‘×¦×¢ ×‘×¢×¨×•×¦×™ ×”×©×™×¨×•×ªÂ ×©×œ× ×•</span>
+                                    <a href="/others/channels" class="">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×ž×§×œ×™× ×¢×œ×™×›×Â ×œ×”×ª×ž×•×“×“ ×¢× ×”×—×–×¨×™ ×”×ž×©×›× ×ª× ×‘×¢×œ×™×™×ª ×”×¨×™×‘×™×ª</span>
+                                    <a href="/others/messages" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×©×™× ×•×™×™× ×‘×¢×œ×•×ª ×”××©×¨××™ ×•×‘×¨×™×‘×™×ª ×–×›×•×ª ×‘×¢×•"×©</span>
+                                    <a href="/others/messages" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×©×™× ×•×™×™× ×‘×ª×¢×¨×™×¤×•× ×™Â ×”×¢×ž×œ×•×ª ×©×œ ×”×‘× ×§</span>
+                                    <a href="/others/changes" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×¨×¤×•×¨×ž×ª ×‘×™×˜×•×œ ×¨×™×‘×™×•×ª ×”×œ×™×‘×•×¨</span>
+                                    <a href="/forex/libor" class="">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×œ×—×©×‘×•×Ÿ ×¢×•×‘×¨ ×•×©×‘</span>
+                                    <a href="/current-account" class="">×œ×—×¥ ×›××Ÿ</a>
+                        </div>
+                    </div>
+                </div>
+
+                    </div>
+        </div>
+        <div class="slide" data-interval="5000">
+                    <div class="visual type-home">
+                                <div class="img" aria-label="image">
+            <img class="img-responsive" aria-label="image" src="/media/5182/desktop-mainpage-2.png" alt="">
+        </div>
+    <div class="txt">
+        <div><a data-id="10350" href="/loans/business-loans-state-guaranteed" title="×”×œ×•×•××” ×‘×¢×¨×‘×•×ª ×”×ž×“×™× ×” ×œ×¢×¡×§×™×">×”×œ×•×•××” ×‘×¢×¨×‘×•×ª ×ž×“×™× ×”</a></div>
+<p>×©×™×¨×•×ª ×—×“×© ×œ×‘×¢×œ×™ ×¢×¡×§×™×</p>
+                    <a href="/loans/business-loans-state-guaranteed" class="btn btn-warning">×œ×ž×™×“×¢ × ×•×¡×£</a>
+
+    </div>
+
+                                        <div class="message hidden-xs">
+                    <div class="container">
+                        <div class="">
+                                <span>×›×œ ×”×¤×¢×•×œ×•×ª ×©× ×™×ª×Ÿ ×œ×‘×¦×¢ ×‘×¢×¨×•×¦×™ ×”×©×™×¨×•×ªÂ ×©×œ× ×•</span>
+                                    <a href="/others/channels" class="">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×ž×§×œ×™× ×¢×œ×™×›×Â ×œ×”×ª×ž×•×“×“ ×¢× ×”×—×–×¨×™ ×”×ž×©×›× ×ª× ×‘×¢×œ×™×™×ª ×”×¨×™×‘×™×ª</span>
+                                    <a href="/others/messages" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×©×™× ×•×™×™× ×‘×¢×œ×•×ª ×”××©×¨××™ ×•×‘×¨×™×‘×™×ª ×–×›×•×ª ×‘×¢×•"×©</span>
+                                    <a href="/others/messages" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×©×™× ×•×™×™× ×‘×ª×¢×¨×™×¤×•× ×™Â ×”×¢×ž×œ×•×ª ×©×œ ×”×‘× ×§</span>
+                                    <a href="/others/changes" class="" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×¨×¤×•×¨×ž×ª ×‘×™×˜×•×œ ×¨×™×‘×™×•×ª ×”×œ×™×‘×•×¨</span>
+                                    <a href="/forex/libor" class="">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                <span>×œ×—×©×‘×•×Ÿ ×¢×•×‘×¨ ×•×©×‘</span>
+                                    <a href="/current-account" class="">×œ×—×¥ ×›××Ÿ</a>
+                        </div>
+                    </div>
+                </div>
+
+                    </div>
+        </div>
+                    <div class="notificationsForMobile hidden-md hidden-lg hidden-sm">
+                    <div class="message">
+                        <div dir="rtl" class="container">
+                            <div class="slider-mobile">
+                                    <div class="my-slides">
+                                        <span class="span-mobile-notifications">×›×œ ×”×¤×¢×•×œ×•×ª ×©× ×™×ª×Ÿ ×œ×‘×¦×¢ ×‘×¢×¨×•×¦×™ ×”×©×™×¨×•×ªÂ ×©×œ× ×•</span>
+
+                                            <a href="/others/channels" class="a-mobile-notifications">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                    </div>
+                                    <div class="my-slides">
+                                        <span class="span-mobile-notifications">×ž×§×œ×™× ×¢×œ×™×›×Â ×œ×”×ª×ž×•×“×“ ×¢× ×”×—×–×¨×™ ×”×ž×©×›× ×ª× ×‘×¢×œ×™×™×ª ×”×¨×™×‘×™×ª</span>
+
+                                            <a href="/others/messages" class="a-mobile-notifications" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                    </div>
+                                    <div class="my-slides">
+                                        <span class="span-mobile-notifications">×©×™× ×•×™×™× ×‘×¢×œ×•×ª ×”××©×¨××™ ×•×‘×¨×™×‘×™×ª ×–×›×•×ª ×‘×¢×•"×©</span>
+
+                                            <a href="/others/messages" class="a-mobile-notifications" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                    </div>
+                                    <div class="my-slides">
+                                        <span class="span-mobile-notifications">×©×™× ×•×™×™× ×‘×ª×¢×¨×™×¤×•× ×™Â ×”×¢×ž×œ×•×ª ×©×œ ×”×‘× ×§</span>
+
+                                            <a href="/others/changes" class="a-mobile-notifications" target="_blank">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                    </div>
+                                    <div class="my-slides">
+                                        <span class="span-mobile-notifications">×¨×¤×•×¨×ž×ª ×‘×™×˜×•×œ ×¨×™×‘×™×•×ª ×”×œ×™×‘×•×¨</span>
+
+                                            <a href="/forex/libor" class="a-mobile-notifications">×œ×ž×™×“×¢ × ×•×¡×£</a>
+                                    </div>
+                                    <div class="my-slides">
+                                        <span class="span-mobile-notifications">×œ×—×©×‘×•×Ÿ ×¢×•×‘×¨ ×•×©×‘</span>
+
+                                            <a href="/current-account" class="a-mobile-notifications">×œ×—×¥ ×›××Ÿ</a>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+</div>
+
+
+
+
+
+
+                        </div>
+                </div>
+        </div>
+        </div>
+    </div>
+    <div class="full-width">
+        <div class='container'>
+        <div class="row clearfix">
+                <div class="col-md-12 column">
+                        <div >
+                                        <div class="offer">
+    <div class="container">
+            <span class="ttl">×œ× ×ž×©× ×” ×‘××™×–×” ×‘× ×§ ××ª×, ×™×© ×œ× ×• ×ž×” ×œ×”×¦×™×¢ ×œ×›×</span>
+        <ul>
+                    <li>
+                        <a href="/loans">
+                            <span class="ico">
+                                    <img src="/media/2198/hand_icon_172_en.png" class="offer-icon" alt="">
+                                                                    <img src="/media/1372/hp_icon_hand_coins_anim_172.gif" class="hover-icon" alt="">
+
+                            </span>
+                            <span>×”×œ×•×•××•×ª</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/mortgage">
+                            <span class="ico">
+                                    <img src="/media/1298/house_icon_172.png" class="offer-icon" alt="">
+                                                                    <img src="/media/1369/hp_icon_house_anim_172.gif" class="hover-icon" alt="">
+
+                            </span>
+                            <span>×ž×©×›× ×ª××•×ª</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/capital-market">
+                            <span class="ico">
+                                    <img src="/media/1300/graph_icon_172.png" class="offer-icon" alt="">
+                                                                    <img src="/media/1371/hp_icon_graph_anim_172.gif" class="hover-icon" alt="">
+
+                            </span>
+                            <span>×©×•×§ ×”×”×•×Ÿ</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/deposits-savings">
+                            <span class="ico">
+                                    <img src="/media/1299/kupa_icon_172.png" class="offer-icon" alt="">
+                                                                    <img src="/media/1370/hp_icon_kupa_anim_172.gif" class="hover-icon" alt="">
+
+                            </span>
+                            <span>×¤×§×“×•× ×•×ª</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.bankjerusalem.co.il/prepaid" target="_blank">
+                            <span class="ico">
+                                    <img src="/media/2481/credit_card_reg.png" class="offer-icon" alt="">
+                                                                    <img src="/media/2874/hp_icon_osh2_anim_172.gif" class="hover-icon" alt="">
+
+                            </span>
+                            <span>×›×¨×˜×™×¡ × ×˜×¢×Ÿ</span>
+                        </a>
+                    </li>
+        </ul>
+    </div>
+    <a href="#" class="scroll-down"></a>
+</div>
+
+
+                                        
+
+<div id="scroll-container" class="scroll-area" name="scroll-container">
+
+    <div class="margin-top-init"></div>
+
+
+    <div class="scroll-section scroll-factor">
+        <div class="container">
+            <div class="circle">
+                <div class="scroll-factor-item image">
+                            <img class="item item-center active" src="/media/1584/img-0001.png" alt="">
+                            <img class="item item-center down" src="/media/1924/img-0002.png" alt="">
+                            <img class="item item-center down" src="/media/1585/img-0003.png" alt="">
+                </div>
+
+                <div class="scroll-factor-item">
+                        <div class="bubble item-bubble item active  right">
+                            <p><strong>×™×•× ×ª×Ÿ, ×œ×§×•×— ×‘× ×§ ××—×¨</strong></p>
+<p>×§×™×‘×œ ×¡×›×•× ×©×œ 30,000 â‚ª ×”×œ×•×•××” ×œ×©×™×¤×•×¥ ×”×‘×™×ªÂ ×‘×œ×™ ×œ×¤×’×•×¢ ×‘×ž×¡×’×¨×ª ×”××©×¨××™ ×©×œ×• ×‘×‘× ×§</p>
+                        </div>
+                        <div class="bubble item-bubble item down left">
+                            <p style="direction: rtl; text-align: right;" dir="LTR" align="LEFT"><strong>×ª×ž×¨, ×œ×§×•×—×ª ×‘× ×§Â ××—×¨</strong></p>
+<p style="direction: rtl; text-align: right;" dir="LTR" align="LEFT">×”×ª×§×“×ž×” ×œ×¤×™×§×“×•×Ÿ ×“×™×’×™×˜×œ×™ ×‘×‘× ×§ ×™×¨×•×©×œ×™×, ×‘×¨×™×‘×™×ª ×™×•×ª×¨ ×ž×©×ª×œ×ž×ª ×ž××©×¨ ×‘×‘× ×§ ×©×œ×” ×•×œ×œ× ×¢×ž×œ×•×ª<span>.</span></p>
+                        </div>
+                        <div class="bubble item-bubble item down right">
+                            <p><strong>×™×•××œ, ×œ×§×•×— ×‘× ×§Â ××—×¨</strong></p>
+<p>×”×¨×•×•×™×— ×‘×©×•×§ ×”×”×•×Ÿ ××—×¨×™ ×™×™×¢×•×¥ ×©×§×™×‘×œ ×‘×‘× ×§ ×™×¨×•×©×œ×™×</p>
+                        </div>
+                </div>
+            </div>
+
+            <div class="scroll-factor-item">
+                    <div class="text item-text item active right">
+                        <h2>×”×œ×•×•××”Â <span>×©×ž×ª××™×ž×”Â ×œ×›×</span></h2>
+<p>×¢×“ 200,000 â‚ª ×‘×œ×™ <br />×œ×¦××ª ×ž×”×‘×™×ª, ×œ×œ×§×•×—×•×ª ×›×œ ×”×‘× ×§×™×Â </p>
+                            <a href="/loans/Pages/ConsumerCreditsimulator.aspx#!/form?step=1" class="btn btn-warning">×ž×ª×§×“×ž×™× ×œ×”×œ×•×•××” ×“×™×’×™×˜×œ×™×ª</a>
+                    </div>
+                    <div class="text item-text item down left">
+                        <p class="add-scroll">×× ×—× ×• ××•×”×‘×™× ×¦×¨×›× ×™× ×—×›×ž×™×, ×›×ž×•×›×.Â ××¦×œ× ×• ×ª×ž×¦××•</p>
+<h2>×¤×™×§×“×•× ×•×ª <span> ××˜×¨×§×˜×™×‘×™×™× </span></h2>
+                            <a href="/savingsanddeposits/Pages/pikadon-online.aspx#/homepage" class="btn btn-warning">×ž×ª×§×“×ž×™× ×œ×¤×™×§×“×•×Ÿ ×“×™×’×™×˜×œ×™</a>
+                    </div>
+                    <div class="text item-text item down right">
+                        <h2 class="add-scroll">×”×›×¡×£ ×©×œ×›×Â <span>×ž×˜×•×¤×œ ×›×ž×• ×©×¦×¨×™×š? </span></h2>
+<p>×ª×ª×§×“×ž×• ×œ×™×™×¢×•×¥ ×”×©×§×¢×•×ª ×•×œ×ž×¢×¨×›×•×ª ×ž×¡×—×¨ ×©×™×¢×‘×“×• ×‘×©×‘×™×œ×›×</p>
+                            <a href="/capital-market" class="btn btn-warning">×ž×ª×§×“×ž×™×. ×ž×¨×•×•×™×—×™×</a>
+                    </div>
+            </div>
+        </div>
+
+        <div class="scroll-factor-item bg-scroll">
+                    <div class="item item-img active">
+                            <img class="img img-01" src="/media/1572/img-scroll-01.png" alt="">
+                            <img class="img img-02" src="/media/1574/img-scroll-03.png" alt="">
+                            <img class="img img-03" src="/media/5056/img-ipad-air-01.png" alt="">
+                    </div>
+                    <div class="item item-img down">
+                            <img class="img img-04" src="/media/2983/jb_shivuki_cellphonepic_small.png" alt="">
+                            <img class="img img-05" src="/media/1569/img-scroll-05.png" alt="">
+                    </div>
+                    <div class="item item-img down">
+                            <img class="img img-06" src="/media/1570/img-scroll-06.png" alt="">
+                            <img class="img img-07" src="/media/1571/img-scroll-07.png" alt="">
+                    </div>
+        </div>
+    </div>
+ 
+
+</div>
+<div id="no-scroll-container">
+
+        <div class="scroll-section">
+            <div class="container">
+                <div class="text right">
+                    <h2>×”×œ×•×•××”Â <span>×©×ž×ª××™×ž×”Â ×œ×›×</span></h2>
+<p>×¢×“ 200,000 â‚ª ×‘×œ×™ <br />×œ×¦××ª ×ž×”×‘×™×ª, ×œ×œ×§×•×—×•×ª ×›×œ ×”×‘× ×§×™×Â </p>
+                        <a href="/loans/Pages/ConsumerCreditsimulator.aspx#!/form?step=1" class="btn btn-warning">×ž×ª×§×“×ž×™× ×œ×”×œ×•×•××” ×“×™×’×™×˜×œ×™×ª</a>
+                </div>
+            </div>
+                <div class="item item-img init-img">
+                        <img class="img img-01" src="/media/1572/img-scroll-01.png" alt="">
+                        <img class="img img-02" src="/media/1574/img-scroll-03.png" alt="">
+                </div>
+        </div>
+        <div class="scroll-section">
+            <div class="container">
+                <div class="text left">
+                    <p class="add-scroll">×× ×—× ×• ××•×”×‘×™× ×¦×¨×›× ×™× ×—×›×ž×™×, ×›×ž×•×›×.Â ××¦×œ× ×• ×ª×ž×¦××•</p>
+<h2>×¤×™×§×“×•× ×•×ª <span> ××˜×¨×§×˜×™×‘×™×™× </span></h2>
+                        <a href="/savingsanddeposits/Pages/pikadon-online.aspx#/homepage" class="btn btn-warning">×ž×ª×§×“×ž×™× ×œ×¤×™×§×“×•×Ÿ ×“×™×’×™×˜×œ×™</a>
+                </div>
+            </div>
+                <div class="item item-img down">
+                        <img class="img img-04" src="/media/2985/iphone-formobile_small.png" alt="">
+                        <img class="img img-05" src="/media/2097/img-scroll-05-mobile.png" alt="">
+                </div>
+        </div>
+        <div class="scroll-section">
+            <div class="container">
+                <div class="text right">
+                    <h2 class="add-scroll">×”×›×¡×£ ×©×œ×›×Â <span>×ž×˜×•×¤×œ ×›×ž×• ×©×¦×¨×™×š? </span></h2>
+<p>×ª×ª×§×“×ž×• ×œ×™×™×¢×•×¥ ×”×©×§×¢×•×ª ×•×œ×ž×¢×¨×›×•×ª ×ž×¡×—×¨ ×©×™×¢×‘×“×• ×‘×©×‘×™×œ×›×</p>
+                        <a href="/capital-market" class="btn btn-warning">×ž×ª×§×“×ž×™×. ×ž×¨×•×•×™×—×™×</a>
+                </div>
+            </div>
+                <div class="item item-img down">
+                        <img class="img img-06" src="/media/1570/img-scroll-06.png" alt="">
+                        <img class="img img-07" src="/media/1571/img-scroll-07.png" alt="">
+                </div>
+        </div>
+</div>
+
+
+                        </div>
+                </div>
+        </div>
+        </div>
+    </div>
+    <div class="middle grid-light-gray grid-color">
+        <div class='container'>
+        <div class="row clearfix">
+                <div class="col-md-12 column">
+                        <div >
+                                        
+
+
+
+<div class="warning-bar">
+    <div class="container">
+        <p><span>×ž×ª×Ÿ ×”×”×œ×•×•××”Â ×›×¤×•×£ ×œ×©×™×§×•×œ ×“×¢×ª ×”×‘× ×§. ××™ ×¢×ž×™×“×” ×‘×¤×™×¨×¢×•×Ÿ ×”×”×œ×•×•××” ×¢×œ×•×œ ×œ×’×¨×•×¨ ×—×™×•×‘ ×‘×¨×™×‘×™×ª ×¤×™×’×•×¨×™× ×•×”×œ×™×›×™ ×”×•×¦××” ×œ×¤×•×¢×œ.</span></p>
+    </div>
+</div>
+
+                        </div>
+                </div>
+        </div>
+        </div>
+    </div>
+    <div class="full-width">
+        <div class='container'>
+        <div class="row clearfix">
+                <div class="col-md-12 column">
+                        <div >
+                                        
+
+<div class="articles" id="area-articles">
+    <div class="container">
+        <h2>×‘×ž×” ×¢×•×“ × ×•×›×œ ×œ×¢× ×™×™×Ÿ ××ª×›×?</h2>
+            <ul class="articles-list">
+                        <li>
+                                <div class="img">
+                                    <a href="/deposits-savings/peri/">
+                                        <img src="/media/1414/fotolia_117499004_s.jpg?anchor=center&amp;mode=crop&amp;width=357&amp;height=241&amp;rnd=131229986060000000" alt="">
+                                    </a>
+                                </div>
+                            <a class="title-link" href="/deposits-savings/peri/">
+                                <h3>×ž×” ×–×” ×¤×¨&quot;×™? ×›×œ ×ž×” ×©×›×“××™ ×œ×“×¢×ª</h3>
+                            </a>
+                            <p>
+                                ×¤×¨&quot;×™ ×”×•× ×¤×ª×¨×•×Ÿ ×ž×¦×•×™×Ÿ ×œ×ª×§×•×¤×•×ª ×©×‘×”× ××ª× ×œ×¤× ×™ ×”×›× ×¡×” ×’×“×•×œ×” ××• ×”×•×¦××” ×’×“×•×œ×”. ×‘×¤×¨&quot;×™ ×”×›×¡×£ × ×–×™×œ, ×–×ž×™×Ÿ ×•×¦×•×‘×¨ ×¨×™×‘×™×ª, ×œ×œ× ×›×œ ×¡×™×›×•×Ÿ ×œ×§×¨×Ÿ
+                            </p>
+                            <a href="/deposits-savings/peri/" title="×§×¨× ×¢×•×“ ×¢×œ ×ž×” ×–×” ×¤×¨&quot;×™? ×›×œ ×ž×” ×©×›×“××™ ×œ×“×¢×ª">×§×¨× ×¢×•×“</a>
+                        </li>
+                        <li>
+                                <div class="img">
+                                    <a href="/capital-market/forex-rates/">
+                                        <img src="/media/1510/forex-web.jpg?anchor=center&amp;mode=crop&amp;width=357&amp;height=241&amp;rnd=131256721460000000" alt="">
+                                    </a>
+                                </div>
+                            <a class="title-link" href="/capital-market/forex-rates/">
+                                <h3>×©×¢×¨×™ ×ž×˜&quot;×— - ××™×–×” ×©×¢×¨×™× ×§×™×™×ž×™× ×•×ž×” ×”×”×‘×“×œ×™× ×‘×™× ×™×”×?</h3>
+                            </a>
+                            <p>
+                                ×ž×” ×ž×™×™×¦×’ ×”×©×¢×¨ ×”×™×¦×™×’, ××™×œ×• × ×ª×•× ×™× ×ž×©×§×£ ×”×©×¢×¨ ×”×¨×¦×™×£ ×•×ž×” ×”×”×‘×“×œ ×‘×™×Ÿ ×©× ×™ ××œ×” ×œ×©×¢×¨ ×§× ×™×™×”, ×©×¢×¨ ×ž×›×™×¨×” ××• ×©×¢×¨ ×ž×–×•×ž×Ÿ? ×œ×¤× ×™×›× ×”×ž×“×¨×™×š ×”×ž×œ× ×œ×©×¢×¨×™ ×”×ž×˜&quot;×— ×”× ×¤×•×¦×™×.
+                            </p>
+                            <a href="/capital-market/forex-rates/" title="×§×¨× ×¢×•×“ ×¢×œ ×©×¢×¨×™ ×ž×˜&quot;×— - ××™×–×” ×©×¢×¨×™× ×§×™×™×ž×™× ×•×ž×” ×”×”×‘×“×œ×™× ×‘×™× ×™×”×?">×§×¨× ×¢×•×“</a>
+                        </li>
+                        <li>
+                                <div class="img">
+                                    <a href="/deposits-savings/prime/">
+                                        <img src="/media/1413/fotolia_117492403_s.jpg?anchor=center&amp;mode=crop&amp;width=357&amp;height=241&amp;rnd=131229980360000000" alt="">
+                                    </a>
+                                </div>
+                            <a class="title-link" href="/deposits-savings/prime/">
+                                <h3>×ž×”×™ ×¨×™×‘×™×ª ×¤×¨×™×™×: ××• ×ž×™ ×ž×–×™×– ××ª ×”×¤×™×§×“×•×Ÿ ×©×œ×™?</h3>
+                            </a>
+                            <p>
+                                ×¨×™×‘×™×ª ×¤×¨×™×™× × ×§×‘×¢×ª ×¢×œ ×™×“×™ ×”×‘× ×§×™×, ×¢×œ ×‘×¡×™×¡ ×¨×™×‘×™×ª ×‘× ×§ ×™×©×¨××œ, ×•×ž×©×ž×©×ª ×›×‘×¡×™×¡ ×œ×—×™×©×•×‘ ×”×¨×™×‘×™×•×ª ×‘×¤×™×§×“×•× ×•×ª, ×‘×”×œ×•×•××•×ª, ×‘××•×‘×¨×“×¨×¤×˜ ×•×‘×—×œ×§ ×ž×”×ž×©×›× ×ª××•×ª
+                            </p>
+                            <a href="/deposits-savings/prime/" title="×§×¨× ×¢×•×“ ×¢×œ ×ž×”×™ ×¨×™×‘×™×ª ×¤×¨×™×™×: ××• ×ž×™ ×ž×–×™×– ××ª ×”×¤×™×§×“×•×Ÿ ×©×œ×™?">×§×¨× ×¢×•×“</a>
+                        </li>
+            </ul>
+
+                    <div class="clearfix">
+                        <a href="/blog" class="btn-link">×œ×›×œ ×”×›×ª×‘×•×ª ×‘×‘×œ×•×’</a>
+                    </div>
+
+    </div>
+</div>
+
+                        </div>
+                </div>
+        </div>
+        </div>
+    </div>
+                </div>
+    </div>
+
+
+
+
+<nav class="scroll-nav">
+    <ul>
+        <li class="active"><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">4</a></li>
+        <li><a href="#">5</a></li>
+        <li><a href="#">6</a></li>
+    </ul>
+</nav>
+
+        <footer id="footer" class="type2">
+            <div class="container mobile-footer" role="contentinfo">
+                
+
+<div class="row">
+    <div class="col-sm-3">
+        <ul class="contact-list">
+                <li class="icon-font">
+                        <span class="ficon-A75_footer icon-font-size" ></span>
+
+                    <div class="cell">
+                            <p>×“×‘×¨ ××™×ª× ×•</p>
+                                                    <a href="tel:*5727" class="tel">&lrm;*5727</a>
+                    </div>
+                </li>
+                <li class="icon-font">
+                        <span class="ficon-A36_footer icon-font-size" ></span>
+
+                    <div class="cell">
+                            <p>×¤×™×§×“×•× ×•×ª</p>
+                                                    <a href="tel:*5727" class="tel">&lrm;*5727</a>
+                    </div>
+                </li>
+                <li class="icon-font">
+                        <span class="ficon-A37_footer icon-font-size" ></span>
+
+                    <div class="cell">
+                            <p>×ž×©×›× ×ª××•×ª</p>
+                                                    <a href="tel:*5726" class="tel">&lrm;*5726</a>
+                    </div>
+                </li>
+                <li class="icon-font">
+                        <span class="ficon-A35_footer icon-font-size" ></span>
+
+                    <div class="cell">
+                                                    <a href="/support"> ×™×¦×™×¨×ª ×§×©×¨ </a>
+                    </div>
+                </li>
+                <li class="icon-font">
+                        <span class="ficon-A34_footer icon-font-size" ></span>
+
+                    <div class="cell">
+                                                    <a href="/others/channels"> ×¢×¨×•×¦×™ ×©×™×¨×•×ª </a>
+                    </div>
+                </li>
+                <li class="">
+                        <i class="ico"><img src="/media/2745/icon_chat_60_60-01.png" alt=""></i>
+
+                    <div class="cell">
+                                                    <a href="https://video.bankjerusalem.co.il/VideoChat.html" target="_blank"> ×©×™×—×ª ×•×™×“××• </a>
+                    </div>
+                </li>
+                <li class="">
+                        <i class="ico"><img src="/media/2979/artboard-2.png" alt=""></i>
+
+                    <div class="cell">
+                                                    <a href="https://www.bankjerusalem.co.il/others/signature"> ×ž×¢×¨×›×ª ×—×ª×™×ž×•×ª </a>
+                    </div>
+                </li>
+
+        </ul>
+    </div>
+    <div class="col-sm-9">
+
+            <div class="row">
+                    <div class="col-sm-4">
+                        <details open>
+                                <summary><h5>×”×œ×•×•××•×ª ×•×ž×©×›× ×ª××•×ª</h5></summary>
+                                <ul class="footer-nav">
+                                        <li><a href="/loans">×”×œ×•×•××•×ª</a></li>
+                                        <li><a href="/loans/all-purpose-loans">×”×œ×•×•××” ×œ×›×œ ×ž×˜×¨×”</a></li>
+                                        <li><a href="/loans/business-loans-state-guaranteed">×”×œ×•×•××” ×‘×¢×¨×‘×•×ª ×”×ž×“×™× ×”</a></li>
+                                        <li><a href="/loans/external-bank-loans">×”×œ×•×•××” ×—×•×¥ ×‘× ×§××™×ª</a></li>
+                                        <li><a href="/loans/instant-loan">×”×œ×•×•××” ×ž×™×™×“×™×ª</a></li>
+                                        <li><a href="/loans/simulator_explanation">×ž×—×©×‘×•×Ÿ ×”×œ×•×•××”</a></li>
+                                        <li><a href="/mortgage">×ž×©×›× ×ª×</a></li>
+                                        <li><a href="/mortgage/mortgage-recycling">×ž×™×—×–×•×¨ ×ž×©×›× ×ª×</a></li>
+                                        <li><a href="https://calculator.bankjerusalem.co.il/" target="_blank">×ž×—×©×‘×•×Ÿ ×ž×©×›× ×ª×</a></li>
+                                </ul>
+                        </details>
+                    </div>
+                    <div class="col-sm-4">
+                        <details open>
+                                <summary><h5>×¤×™×§×“×•× ×•×ª ×•×©×•×§ ×”×”×•×Ÿ</h5></summary>
+                                <ul class="footer-nav">
+                                        <li><a href="/deposits-savings">×¤×™×§×“×•× ×•×ª</a></li>
+                                        <li><a href="/savingsanddeposits/Pages/pikadon-online.aspx#/homepage" target="_blank">×¤×™×§×“×•×Ÿ ×“×™×’×™×˜×œ×™</a></li>
+                                        <li><a href="/deposits-savings/peri/">×¤×¨&quot;×™</a></li>
+                                        <li><a href="/capital-market">×ž×¡×—×¨ ×‘×‘×•×¨×¡×”</a></li>
+                                        <li><a href="/capital-market/investment-consulting">×™×™×¢×•×¥ ×”×©×§×¢×•×ª</a></li>
+                                        <li><a href="https://www.bankjerusalem.co.il/capital-market/rates">×©×¢×¨×™× ×™×¦×™×’×™×</a></li>
+                                        <li><a href="https://www.bankjerusalem.co.il/capital-market/indices">×ž×“×“×™×</a></li>
+                                        <li><a href="/deposits-savings/palat">××™×ª×•×¨ ×¤×™×§×“×•× ×•×ª ×œ×œ× ×ª× ×•×¢×”</a></li>
+                                        <li><a href="/forex/libor-rates-db">×©×¢×¨×™ ×¨×™×‘×™×•×ª ×ž×˜&quot;×—</a></li>
+                                </ul>
+                        </details>
+                    </div>
+                    <div class="col-sm-4">
+                        <details open>
+                                <summary><h5>×”×‘× ×§ ×•×¤×¢×™×œ×•×ª×•</h5></summary>
+                                <ul class="footer-nav">
+                                        <li><a href="/about">××•×“×•×ª ×‘× ×§ ×™×¨×•×©×œ×™×</a></li>
+                                        <li><a href="/about/corporate-responsibility">××—×¨×™×•×ª ×ª××’×™×“×™×ª</a></li>
+                                        <li><a href="/private_banking">×‘× ×§××•×ª ×¤×¨×˜×™×ª</a></li>
+                                        <li><a href="/support/ombudsman-department">×”×™×—×™×“×” ×œ×¤× ×™×•×ª ×”×¦×™×‘×•×¨</a></li>
+                                        <li><a href="/about/asefa-clalit">××¡×™×¤×” ×›×œ×œ×™×ª</a></li>
+                                        <li><a href="/about/city-shalem">×¢×™×¨ ×©×œ× ×¡×•×›× ×•×ª ×œ×‘×™×˜×•×—</a></li>
+                                        <li><a href="/others/dover">×“×•×‘×¨×•×ª ×”×‘× ×§</a></li>
+                                        <li><a href="/others/internal_audit">×”×‘×™×§×•×¨×ª ×”×¤× ×™×ž×™×ª</a></li>
+                                </ul>
+                        </details>
+                    </div>
+                            </div>
+            <div class="row">
+                    <div class="col-sm-4">
+                        <details open>
+                                <summary><h5>×©×™×¨×•×ª ×•×ž×™×“×¢</h5></summary>
+                                <ul class="footer-nav">
+                                        <li><a href="/others/changes">×”×•×“×¢×•×ª ×¢×œ ×©×™× ×•×™×™×</a></li>
+                                        <li><a href="/others/accessibility">×”×¦×”×¨×ª × ×’×™×©×•×ª</a></li>
+                                        <li><a href="/loans/disclaimer" target="_blank">×’×™×œ×•×™ × ××•×ª ×“×™×’×™×˜×œ×™ - ×”×œ×•×•××•×ª</a></li>
+                                        <li><a href="/loans/disclaimer-fmc">×’×™×œ×•×™ × ××•×ª ×“×™×’×™×˜×œ×™ â€“ ×›×¨×˜×™×¡ ×—×—&quot;×§</a></li>
+                                        <li><a href="/others/security">××‘×˜×—×ª ×ž×™×“×¢ ×•×’×œ×™×©×” ×‘×˜×•×—×”</a></li>
+                                        <li><a href="https://www.bankjerusalem.co.il/Pages/security_report.aspx">×“×™×•×•×— ×¢×œ ×—×©×™×¤×ª ××‘×˜×—×ª ×ž×™×“×¢</a></li>
+                                        <li><a href="/others/projects" target="_blank">××™×ž×•×ª ×©×•×‘×¨×™× ×œ×¤×¨×•×™×§×˜ ×‘× ×™×”</a></li>
+                                        <li><a href="/others/amana">××ž× ×” ×•×•×œ×•× ×˜×¨×™×ª ×œ×§×™×“×•× ×¢×¨×‘×•×ª ×”×“×“×™×ª</a></li>
+                                        <li><a href="/others/sitemap">×ž×¤×ª ××ª×¨</a></li>
+                                        <li><a href="https://www.bankjerusalem.co.il/media/4933/mediniutmatbeavirtuali.pdf" target="_blank">×ž×“×™× ×™×•×ª ×”×‘× ×§ ×‘× ×•×’×¢ ×œ×ž×ª×Ÿ ×©×™×¨×•×ª×™ ×ª×©×œ×•× ××’×‘ ×¤×¢×™×œ×•×ª ×‘×ž×˜×‘×¢ ×•×™×¨×˜×•××œ×™</a></li>
+                                </ul>
+                        </details>
+                    </div>
+                    <div class="col-sm-4">
+                        <details open>
+                                <summary><h5>×ž×™×“×¢ ×›×¡×¤×™ ×•×ž×©×¤×˜×™</h5></summary>
+                                <ul class="footer-nav">
+                                        <li><a href="/others/financial-statements">×“×•×—×•×ª ×›×¡×¤×™×™×</a></li>
+                                        <li><a href="/others/giluim">×’×™×œ×•×™×™× ×¤×™×§×•×—×™×™× × ×•×¡×¤×™×</a></li>
+                                        <li><a href="/others/commissions-rates">×ª×¢×¨×™×¤×•×Ÿ ×¢×ž×œ×•×ª</a></li>
+                                        <li><a href="/others/trial">×ª× ××™× ×ž×©×¤×˜×™×™×</a></li>
+                                        <li><a href="/others/privacy_policy">×ž×“×™× ×™×•×ª ×¤×¨×˜×™×•×ª</a></li>
+                                        <li><a href="/support/debt-collection">×ª×”×œ×™×š ×’×‘×™×™×ª ×—×•×‘</a></li>
+                                        <li><a href="/others/piskey-din">×¤×¡×§×™ ×“×™×Ÿ ×‘× ×•×©× ×”×¡×›×ž×™× ×‘× ×§××™×™× ××—×™×“×™×</a></li>
+                                        <li><a href="/media/4754/×˜×•×¤×¡-×”×¦×˜×¨×¤×•×ª-×œ×‘× ×§××•×ª-×‘×ª×§×©×•×¨×ª.pdf">×”×¡×›× ×‘× ×§××•×ª ×‘×ª×§×©×•×¨×ª</a></li>
+                                </ul>
+                        </details>
+                    </div>
+                    <div class="col-sm-4">
+                        <details open>
+                                <summary><h5>×©×™×¨×•×ª×™× × ×•×¡×¤×™×</h5></summary>
+                                <ul class="footer-nav">
+                                        <li><a href="/current-account">×¢×•×‘×¨ ×•×©×‘</a></li>
+                                        <li><a href="/prepaid">×›×¨×˜×™×¡ × ×˜×¢×Ÿ</a></li>
+                                        <li><a href="/others/careers">×“×¨×•×©×™×</a></li>
+                                        <li><a href="/blog">×‘×œ×•×’</a></li>
+                                        <li><a href="/mortgage/heiter-iska">×”×™×ª×¨ ×¢×¡×§×</a></li>
+                                        <li><a href="/support/atm">×›×¡×¤×•×ž×˜×™×</a></li>
+                                        <li><a href="/realestatelobby">× ×“×œ&quot;×Ÿ</a></li>
+                                        <li><a href="https://apiportal.bankjerusalem.co.il/">×¤×•×¨×˜×œ ×”×ž×¤×ª×—×™×</a></li>
+                                </ul>
+                        </details>
+                    </div>
+                                    <div class="col-sm-12 social-container md-align-center">
+                        <h3></h3>
+                        
+
+<ul class="social type2">
+</ul>
+
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+            </div>
+            <div class="sub-footer">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-md-12">
+                            <p>*×”×’×œ×™×©×” ×‘××ª×¨ ×‘× ×§ ×™×¨×•×©×œ×™× ×‘×¢"×ž (×œ×”×œ×Ÿ: "×‘× ×§ ×™×¨×•×©×œ×™×" ××• "×”×‘× ×§"), ×œ×¨×‘×•×ª ××ª×¨ ×”×œ×§×•×—×•×ª, ×•×”×©×™×ž×•×© ×‘× ×ª×•× ×™×, ×‘×ž×™×“×¢, ×‘×©×¨×•×ª×™× ×•×‘×›×œ×™× ×”×ž×¦×•×™×™× ×‘×• ×›×¤×•×¤×™× ×œ×”×•×¨××•×ª, ×œ×ª× ××™× ×•×œ×¡×™×™×’×™× ×”×ž×¤×•×¨×˜×™× ×œ×”×œ×Ÿ ("×ª× ××™ ×”×’×œ×™×©×”"). ×›×œ ×”×–×›×•×™×•×ª ×©×ž×•×¨×•×ª ×œ××ª×¨ ×‘× ×§ ×™×¨×•×©×œ×™×. ××™×Ÿ ×œ×¢×©×•×ª ×›×œ ×©×™×ž×•×© ×‘×ª×›× ×™ ×”××ª×¨ ×œ×œ× ×§×‘×œ×ª ××™×©×•×¨ ×‘×›×ª×‘ ×•×ž×¨××© ×ž×‘× ×§ ×™×¨×•×©×œ×™×. ×œ×ª×©×•×ž×ª ×œ×‘×š, ×¤×¨×˜×™ ×’×œ×™×©×ª×š ×‘××ª×¨ ×”×‘× ×§ × ×©×ž×¨×™× ×‘×ž××’×¨×™ ×”×ž×™×“×¢ ×©×œ ×”×‘× ×§. ×’×œ×™×©×” ×‘××ª×¨ ×”×‘× ×§ ×•×”×©××¨×ª ×¤×¨×˜×™× ×‘×• ×ž×”×•×•×™× ×”×¡×›×ž×” ×œ×©×ž×™×¨×ª× ×¢×œ ×™×“×™ ×”×‘× ×§. ×”×ž×™×“×¢ ×™×©×ž×© ×œ×¦×•×¨×š × ×™×”×•×œ, ×ª×¤×¢×•×œ ×•×˜×™×¤×•×œ ×‘×›×œ ×©×™×¨×•×ª ××•×ª×• ×ª×‘×§×© ×ž×”×‘× ×§.Â <span>×›×œ ×ž×ª×Ÿ ××©×¨××™ ×›×¤×•×£ ×œ××™×©×•×¨ ×”×‘× ×§ ×‘×”×ª×× ×œ×ª× ××™× ×•×œ×ž×“×™× ×™×•×ª ×”×‘× ×§ ×›×¤×™ ×©×™×”×™×• ×ž×¢×ª ×œ×¢×ª.â€‹â€‹Â ××™ ×¢×ž×™×“×” ×‘×¤×™×¨×¢×•×Ÿ ×”×œ×•×•××” ×¢×œ×•×œ ×œ×’×¨×•×¨ ×—×™×•×‘ ×‘×¨×™×‘×™×ª ×¤×™×’×•×¨×™× ×•×”×œ×™×›×™ ×”×•×¦××” ×œ×¤×•×¢×œ.</span></p>
+                        </div>
+                        
+
+
+                    </div>
+                    <a href="#" class="btn-page-up hidden-xs">×’×œ×•×œ ×œ×ž×¢×œ×”</a>
+                </div>
+
+            </div>
+        </footer>
+
+            <div class="cookies visible">
+                <button class="close" aria-label="×¡×’×•×¨ ×ž×¡×š ×§×•×§×™×–" onclick="deleteMessageOfCookies(30)"><span>&#10005;</span></button>
+                <p>×œ×™×“×™×¢×ª×š, ×‘××ª×¨ ×–×” × ×¢×©×” ×©×™×ž×•×© ×‘×§×‘×¦×™ Cookies ×›×“×™ ×œ×¡×¤×§ ×œ×š ×—×•×•×™×ª ×’×œ×™×©×” ×˜×•×‘×” ×™×•×ª×¨.<br />×œ×ž×™×“×¢ × ×•×¡×£ × ×™×ª×Ÿ ×œ×¢×™×™×Ÿ <a data-id="8534" href="/others/privacy_policy" title="×ž×“×™× ×™×•×ª ×¤×¨×˜×™×•×ª">×‘×ž×“×™× ×™×•×ª ×”×¤×¨×˜×™×•×ª</a></p>
+            </div>
+        
+
+
+    </div>
+
+    
+
+
+
+</body>
+</html>

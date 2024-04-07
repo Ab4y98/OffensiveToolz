@@ -1,0 +1,9 @@
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Origin: https://retail.bankjerusalem.co.il
+Content-Length: 6755
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Date: Thu, 06 Jul 2023 07:59:17 GMT
+Set-Cookie: ASP.NET_SessionId=frznyrs2isjunrkljammqyd1; path=/; HttpOnly,AWS=rd1o00000000000000000000ffff0a32081fo443; expires=Thu, 06-Jul-2023 10:59:18 GMT; path=/; Httponly; Secure,TS0160897d=01f303b1aacda5d98fab193b2402b54c6f9f08c25e66f65da0e4e4089e6a016afff0ae0cf6150bd6d7e657b25410265cf90e403492b004966f29b8d919e4af97df3b1a78a17909b61e5e16fa87d945a47ca911fef3; Path=/,TS0160897d028=01d0b0e8391ca1a3af65eb4f4d9206ea2b8e18beb74a2e4055c961b75c33cb5d8ebd3d63473bf71f1c9f586120f399a58798eb3ef6; Path=/; Secure
+Strict-Transport-Security: max-age=32140800; includeSubDomains
+

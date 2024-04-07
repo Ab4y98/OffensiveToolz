@@ -1,3 +1,6 @@
 [submodule "SharpCollection"]
 	path = SharpCollection
 	url = https://github.com/Flangvik/SharpCollection
+[submodule "AMSITrigger"]
+	path = AMSITrigger
+	url = https://github.com/RythmStick/AMSITrigger

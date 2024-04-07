@@ -1,0 +1,23 @@
+﻿  CTAES.c
+  PayloadEncrypter.c
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(54,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(54,10): message : consider using '%lld' in the format string
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(54,10): message : consider using '%Id' in the format string
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(54,10): message : consider using '%I64d' in the format string
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(79,24): warning C4244: 'function': conversion from 'ULONGLONG' to 'unsigned int', possible loss of data
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(86,33): warning C4244: 'function': conversion from 'ULONGLONG' to 'unsigned int', possible loss of data
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(120,1): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(121,1): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(211,60): warning C4133: 'function': incompatible types - from 'SIZE_T *' to 'PDWORD'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(229,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(229,9): message : consider using '%lld' in the format string
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(229,9): message : consider using '%Id' in the format string
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(229,9): message : consider using '%I64d' in the format string
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(234,85): warning C4244: 'function': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(196,1): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\PayloadEncrypter\PayloadEncrypter.c(197,1): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PayloadEncrypter.vcxproj -> C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\x64\Release\PayloadEncrypter.exe

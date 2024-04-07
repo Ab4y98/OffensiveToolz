@@ -1,0 +1,64 @@
+﻿  Assembling HellsAsm.asm...
+  ApiHashing.c
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\ApiHashing.c(59,31): warning C4047: '=': 'CHAR' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\ApiHashing.c(109,1): warning C4244: 'initializing': conversion from 'WCHAR' to 'CHAR', possible loss of data
+  Common.c
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Common.c(147,47): warning C4142: 'strrchr': benign redefinition of type
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime_string.h(76): message : see declaration of 'strrchr'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Common.c(149,9): warning C4163: 'strrchr': not available as an intrinsic function
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Common.c(150,9): warning C4163: 'strrchr': not available as an intrinsic function
+  CtAes.c
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\CtAes.c(533,34): warning C4090: 'function': different 'const' qualifiers
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\CtAes.c(549,23): warning C4090: 'function': different 'const' qualifiers
+  Debug.c
+  HellsHall.c
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\HellsHall.c(50,54): warning C4047: '==': 'ULONG_PTR' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\HellsHall.c(87,83): warning C4047: 'function': 'ULONG_PTR' differs in levels of indirection from 'HMODULE'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\HellsHall.c(87,67): warning C4024: 'InitDllsConfigStructs': different types for formal and actual parameter 2
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\HellsHall.c(127,81): warning C4047: 'function': 'ULONG_PTR' differs in levels of indirection from 'HMODULE'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\HellsHall.c(127,66): warning C4024: 'InitDllsConfigStructs': different types for formal and actual parameter 2
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\HellsHall.c(131,52): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\HellsHall.c(227,30): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+  Inject.c
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Inject.c(24,72): warning C4047: '=': 'ULONG_PTR' differs in levels of indirection from 'PBYTE'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Inject.c(25,58): warning C4047: '=': 'ULONG_PTR' differs in levels of indirection from 'PBYTE'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Inject.c(27,18): warning C4022: 'Memcpy': pointer mismatch for actual parameter 2
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Inject.c(28,17): warning C4022: 'Memcpy': pointer mismatch for actual parameter 2
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Inject.c(21,1): warning C4047: 'initializing': 'ULONG_PTR' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Inject.c(22,1): warning C4047: 'initializing': 'ULONG_PTR' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Inject.c(66,1): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Inject.c(166,1): warning C4010: single-line comment contains line-continuation character
+  main.c
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(45,58): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(45,54): warning C4024: 'MessageBoxA': different types for formal and actual parameter 4
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(47,45): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(47,41): warning C4024: 'SetCriticalSectionSpinCount': different types for formal and actual parameter 2
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(49,35): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(49,31): warning C4024: 'GetWindowLongPtrW': different types for formal and actual parameter 2
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(52,32): warning C4047: 'function': 'LCID' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(52,28): warning C4024: 'ConvertDefaultLocale': different types for formal and actual parameter 1
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(53,31): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(53,27): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 1
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(53,37): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(53,33): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 2
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(53,49): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(53,45): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 4
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(53,61): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\IatCamo.h(53,57): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 6
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\main.c(24,31): warning C4305: 'initializing': truncation from 'double' to 'FLOAT'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\main.c(34,50): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\main.c(34,46): warning C4024: 'SHGetFolderPathW': different types for formal and actual parameter 4
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\main.c(41,1): warning C4244: 'initializing': conversion from 'FLOAT' to 'DWORD', possible loss of data
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\main.c(79,47): warning C4047: 'function': 'UINT32' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\main.c(79,43): warning C4024: 'GetModuleHandleH': different types for formal and actual parameter 1
+  RsrcPayload.c
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\RsrcPayload.c(7,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\RsrcPayload.c(24,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\RsrcPayload.c(46,63): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+  Unook.c
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Unook.c(25,83): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Unook.c(16,1): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\Loader\Unook.c(78,1): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Generating Code...
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Loader.vcxproj -> C:\Users\daniela\Downloads\random tools\MaldevAcademyLdr.1\x64\Release\Loader.exe

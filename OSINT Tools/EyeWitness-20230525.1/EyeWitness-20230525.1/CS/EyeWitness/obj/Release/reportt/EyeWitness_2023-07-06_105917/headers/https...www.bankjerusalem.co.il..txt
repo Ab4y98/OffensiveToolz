@@ -1,0 +1,8 @@
+X-Frame-Options: sameorigin
+Strict-Transport-Security: max-age=32140800; includeSubDomains
+Content-Length: 52708
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Date: Thu, 06 Jul 2023 07:59:18 GMT
+Set-Cookie: AWS=rd1o00000000000000000000ffff0a320818o443; expires=Thu, 06-Jul-2023 10:59:18 GMT; path=/; Httponly; Secure,TS0192bae2=01f303b1aaa7ba6ed9dcb50b7fa2de56a797226214f5c5946a0121565364b4d020dc089fce8bef3d09b37b05e4bca13ba38fd3c7b691e473a82d977bfcb8eeedc875d72f68; Path=/; Domain=.www.bankjerusalem.co.il
+

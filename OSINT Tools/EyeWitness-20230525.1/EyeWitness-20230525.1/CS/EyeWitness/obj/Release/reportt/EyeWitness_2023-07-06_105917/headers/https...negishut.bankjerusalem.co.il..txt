@@ -1,0 +1,12 @@
+X-AspNetMvc-Version: 5.2
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Strict-Transport-Security: max-age=32140800; includeSubDomains
+Content-Length: 484
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Date: Thu, 06 Jul 2023 07:59:17 GMT
+Server: 
+X-AspNet-Version: 4.0.30319
+

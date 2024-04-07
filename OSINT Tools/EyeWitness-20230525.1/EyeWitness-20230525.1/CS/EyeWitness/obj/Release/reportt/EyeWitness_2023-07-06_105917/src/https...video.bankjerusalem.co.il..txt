@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>Interaction</title>
+
+    <link type="text/css" rel="stylesheet" href="/style/font-awesome.min.css" />
+    <link type="text/css" rel="stylesheet" href="/style/sweetalert.css" />
+    <!-- Custom CSS styles -->
+    <link type="text/css" rel="stylesheet" href="/style/room.css" />
+</head>
+<body>
+    <div id="app"></div>
+
+
+    <!-- Kurento JavaScript dependencies -->
+    <script src="/js/kurento-utils.js"></script>
+    <script src="/js/kurento-jsonrpc.js"></script>
+    <script src="/js/kurento-client.js"></script>
+    <script src="/scripts/lib/KurentoRoom.js"></script>
+
+
+    <!-- Vendor dependencies -->
+    <script src="/scripts/lib/jquery.min.js"></script>
+    <script src="/scripts/lib/adapter.js"></script>
+    <script src="/scripts/lib/EventEmitter.min.js"></script>
+    <script src="/scripts/lib/sweetalert.min.js"></script>
+
+    <!-- Custom JavaScript dependencies -->
+    <script src="/scripts/config.js"></script>
+    <script src="/scripts/participants.js"></script>
+    <script src="/scripts/host.js"></script>
+
+    <script type="text/javascript">var appPath = 'app';</script>
+    <script src="/scripts/bundle.js"></script>
+</body>
+</html>

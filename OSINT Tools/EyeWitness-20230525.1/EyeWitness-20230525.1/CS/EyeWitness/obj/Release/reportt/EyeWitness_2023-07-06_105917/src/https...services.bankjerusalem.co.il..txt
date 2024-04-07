@@ -1,0 +1,619 @@
+
+
+
+<!DOCTYPE html>
+<html dir="rtl" class="ms-isBot" lang="he-IL">
+    <head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta name="format-detection" content="telephone=no" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="Expires" content="0" /><meta name="google-site-verification" content="aDTpW1H10EZrxfu8UJYIuxj4_OLYdztqEyBlk-9ZqT4" /><title>
+	
+                ×›× ×™×¡×” ×œ×—×©×‘×•×Ÿ ×©×œ×™ - ×‘× ×§ ×™×¨×•×©×œ×™×
+            
+</title><link rel="shortcut icon" href="/Style%20Library/boj/images/favicon.ico" type="image/vnd.microsoft.icon" id="favicon" /><link rel="stylesheet" type="text/css" href="/_layouts/15/1037/styles/Themable/corev15.css?rev=Kzuucph19l19elK4nSCE4Q%3D%3DTAG0"/>
+<script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "08043b12b184f8003324684b8a0c3b1dd93a65d4cc680a384781d2e908b1ebf21f19391c3084f693876d8ec0a32b4de0a9c49f58a61191a570232a81dfe76e754b4e68be80a084fa16818247d898a97d3f25d08e4becb814ac3207d9b133f137bf2cc78c7a951ddf8f51d96f52918d4c9176fcdfed0c005034462fa18adc2794a27c08d22b61aece323bcc1b8bc71889db5bbe860a323f918837686a670971731c9add33473a80feed19bb8a53bc347be100a711efad8b560ca3000473c0bba05eb2d04832a24b7d337e3c79ffa3ba84ae5377e94cfa3b1e9b49184482f03e249273fadaa9b86bad1f79c02a5e44ccd21d3763fe36538ebb0b3e68856d6f747b";
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+window["_tsbp_"] = { ba : "X-TS-BP-Action", bh : "X-TS-AJAX-Request"};
+//]]>
+</script><script type="text/javascript" src="/TSbd/086229b7b6ab20003ce02979178952ec31250c9d36f6aff64f2e4a6feb5dd95f35e255bd786ca78f?type=2"></script><script type="text/javascript" src="/_layouts/15/1037/initstrings.js?rev=xs6zGzeEoL%2FmV2zOS6ks4Q%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=nofE1eoRRgtGrhtWzPeWIQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=PGwdstfuOYXpPijk9kXWsGuyqdCXN2TcDo1tLW5ByHSBKtJt6IYNrrpOODnEvli9jpjfbpS___6ETiKILMe2akSV6cl0w0qt8lx_JdJ35kHPkxkKUkbhjwLIAWbkkWOOAaEBGyAJk39udmkJvRAIgTZAdgXxltSOMd2o0-dhzlCh8QCnc_Q6p5NyDsn98r3L0&amp;t=49337fe8"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=DEyRtgyzRwE9jxS6awNKtA%3D%3DTAG0"></script>
+<script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=4UhLIF\u00252FezOvmGnh\u00252Fs0LLpA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1037\u002fstrings.js?rev=oZzhJu4b5sTHBZRwKSlqLw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002f1037\u002fsp.res.js?rev=66cX2CYGQowCFZGyTFCFxw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=9k9ZaIbIvmJOoAMQYzLMeg\u00253D\u00253DTAG0");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=fXbKJN\u00252BtIp2zWSuxNLMsKw\u00253D\u00253DTAG0");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=hWVNTF7h7PLFWPrRINeRJA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=fNlQkTonmWDhJeg5K0ZkAA\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=f1Mb\u00252B0M\u00252FIYd5gSp\u00252B2i2U8A\u00253D\u00253DTAG0");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=WnXXCoIvvhxRw1bsbBArAw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=LqufBdv\u00252BJA4NtCH0HBPGQw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=nY2qmw39\u00252Bvr5thJauIE88A\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=awi3x6ddc\u00252BINMsMyUroLAA\u00253D\u00253DTAG0");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=L90\u00252BsJoeuj99ORme6yePMA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=BTdKpTi8WWgsBtrtc\u00252B7UgQ\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=9Go6AuejGH7FccveKXj5Cw\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=cx6U8sP\u00252ByP0OFLjk6ekyIg\u00253D\u00253DTAG0");RegisterSodDep("userprofile", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=s0jbUDHO0AyQr2PfPJAVdQ\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1037\u002fprofilebrowserscriptres.js?rev=A8bDl65zm3GNnpiBoWV0Lw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=\u00252FKY7F2wUDP9RvMLl4HlpSw\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=ThYJLTMD\u00252BzglmstcECg3lA\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=abLoEP3xsfZymzU\u00252B66a2FA\u00253D\u00253DTAG0");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js");RegisterSodDep("inplview", "sp.js");</script>
+
+            
+            <link rel="canonical" href="https://services.bankjerusalem.co.il:443/Pages/Login.aspx" /><meta name="description" content="×‘× ×§ ×™×¨×•×©×œ×™× ×ž×¢×ž×™×“ ×œ×¨×©×•×ª×š ×©×™×¨×•×ª×™ ×“×™×’×™×˜×œ ×ž×ª×§×“×ž×™×. ×‘××ª×¨ ×ª×•×›×œ ×œ×¦×¤×•×ª ×‘×ž×™×“×¢ ×•×œ× ×”×œ ××ª ×”×—×©×‘×•×Ÿ ×©×œ×š ×‘××•×¤×Ÿ ×¤×©×•×˜ ×‘×›×œ ×–×ž×Ÿ ×•×ž×›×œ ×ž×§×•×. ×”×¦×˜×¨×£ ×œ×©×™×¨×•×ª×™ ×”×“×™×’×™×˜×œ ×©×œ ×‘× ×§ ×™×¨×•×©×œ×™× &gt;" />
+            
+        <link rel="stylesheet" media="all" href="/_layouts/15/BankJerusalem/styles/bootstrap/v3.3.4/bootstrap.css" />
+<link rel="stylesheet" media="all" href="/_layouts/15/BankJerusalem/styles/bootstrap/v3.3.4/bootstrap-rtl.css" />
+<link rel="stylesheet" media="all" href="/_layouts/15/BankJerusalem/styles/bootstrap/v3.3.4/bootstrap-custom.css" />
+<link rel="stylesheet" media="all" href="/Style%20Library/boj/he-il/styles/commonV4.css?rev=04072023210742" />
+<link rel="stylesheet" media="all" href="/Style%20Library/boj/he-il/styles/controls/Login.css?rev=04072023210742" />
+
+
+        
+        <!--[if lt IE 9]>
+	        <script type="text/javascript" src="/_layouts/15/BankJerusalem/scripts/html5shiv.min.js"></script>
+            <script type="text/javascript">var console; var angular;</script>
+        <![endif]-->
+
+       <script type="text/javascript" src="/_layouts/15/BankJerusalem/scripts/jquery/jquery-3.5.1.min.js"></script>
+       <script type="text/javascript" src="/Style Library/boj/scripts/helpPanel.js?rev=0204200834"></script>
+       <link rel="stylesheet" type="text/css" href="/Style Library/boj/styles/helpPanel.css" /><script type="text/javascript" src="//services.bankjerusalem.co.il/EakuIXnu5V/70616765732f6c6f67696e2e61737078.js"></script><script type="text/javascript" src="//services.bankjerusalem.co.il/Xs7ZDubYI/0839133988ab18003721c71e81b2f97b3c07dec46be3cb20b9d8566336538c19.js"></script></head>
+    <body onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"><noscript><style type="text/css">#Yapcg2n58D1a {background-image: url("/3wbYJ6qnbrGPcks.png?n=0871508806001800745dd1223c3a2a864e2da91c7b502165f76cb6a7c2e36ce0");}</style><div id="Yapcg2n58D1a"></div></noscript>
+        
+        
+        
+        
+        
+        <div id="imgPrefetch" style="display:none">
+<img src="/Style%20Library/boj/images/favicon.ico?rev=40" />
+</div>
+
+
+        <form method="post" action="./Login.aspx" id="aspnetForm">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="noDigest" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhkYjdlMTAwYmRiNzM4ZRgDBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBAVeY3RsMDAkU1BXZWJQYXJ0TWFuYWdlcjEkZ183MzU0MGM4MV9lNDZjXzQ4NDhfYjZhMl9kMGY2ZDNhYWY0NjYkY3RsMDAkd2l6YXJkTG9naW5PVFBTaXRlJGlkTW9kZQVkY3RsMDAkU1BXZWJQYXJ0TWFuYWdlcjEkZ183MzU0MGM4MV9lNDZjXzQ4NDhfYjZhMl9kMGY2ZDNhYWY0NjYkY3RsMDAkd2l6YXJkTG9naW5PVFBTaXRlJHBhc3Nwb3J0TW9kZQVkY3RsMDAkU1BXZWJQYXJ0TWFuYWdlcjEkZ183MzU0MGM4MV9lNDZjXzQ4NDhfYjZhMl9kMGY2ZDNhYWY0NjYkY3RsMDAkd2l6YXJkTG9naW5PVFBTaXRlJHBhc3Nwb3J0TW9kZQVHY3RsMDAkV2VsY29tZVYzJExvZ291dEFuZFBlcnNvbmFsRGV0YWlscyRpbWdidG5Mb2dvdXRBbmRQZXJzb25hbERldGFpbHMFV2N0bDAwJFNQV2ViUGFydE1hbmFnZXIxJGdfNzM1NDBjODFfZTQ2Y180ODQ4X2I2YTJfZDBmNmQzYWFmNDY2JGN0bDAwJHdpemFyZExvZ2luT1RQU2l0ZQ8QZBQrAQFmZmQFZ2N0bDAwJFNQV2ViUGFydE1hbmFnZXIxJGdfNzM1NDBjODFfZTQ2Y180ODQ4X2I2YTJfZDBmNmQzYWFmNDY2JGN0bDAwJHdpemFyZExvZ2luT1RQU2l0ZSRXaXphcmRNdWx0aVZpZXcPD2RmZL/q05sUyPEtMqAOMoX0dIRZ5l40uRawtweMzvoAg0C+" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+
+var g_correlationId = '34c6c3a0-429d-0008-bd4a-bf3f6c550ae5';
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaRUMEnabled = false;
+var g_wsaLCID = 1037;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'STS#1';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "https:\u002f\u002fservices.bankjerusalem.co.il", siteAbsoluteUrl: "https:\u002f\u002fservices.bankjerusalem.co.il", serverRequestPath: "\u002fPages\u002fLogin.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "\u05D1\u05E0\u05E7 \u05D9\u05E8\u05D5\u05E9\u05DC\u05D9\u05DD", webTemplate: "1", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fPublishingImages\u002fLogo\u002fBojSmallLogo.jpg", webLanguage: 1037, currentLanguage: 1037, currentUICultureName: "he-IL", currentCultureName: "he-IL", clientServerTimeDelta: new Date("2023-07-06T07:59:18.6096154Z") - new Date(), updateFormDigestPageLoaded: new Date("2023-07-06T07:59:18.6096154Z"), siteClientTag: "5063$$16.0.5383.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{6d585904-5c73-4cc9-93bb-aff77f659149}",pageItemId:194, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472768,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
+{
+    if(typeof(window.SP) == "undefined") window.SP = {};
+    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
+
+    var ysObj = window.SP.YammerSwitch;
+    ysObj.IsEnabled = false;
+    ysObj.TargetYammerHostName = "www.yammer.com";
+} )(); var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=DEyRtgyzRwE9jxS6awNKtA%3D%3DTAG0" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+document.write('<link rel="stylesheet" type="text/css" href="/Style Library/BOJ/styles/editorOOB.css"></' + 'link>');(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8FC635D2" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA0rboWCqjHTf6ZVZHqD8p+H3Hvrm3uTjuXS59huUHneu1kuH/lYXWqGqp67kmhO3tYwi7fD7u83KmIvv7AxrZg2Xt2M6XYAgHFgF2RHBZlDBODATbLTQmQ3UkME2n/MJjfsgngMY8OCzGkBJsNKWI5NBKJCdLPVb9hvv+k1URyNS77DK45+Fl7Q3j3/I5cEjZFtDJs5ipgELZYSLckbi8yUxQJTMz5WItsPtvW23hdXElcrIO0LzgtbrDl8BxxwLRija7TKasEjxUgC0irxmL/xFoDAb9HVrL5S4X6OYCXJf/L1BYC+nGRgKUMu2O0QEqs=" />
+            
+            
+            
+            
+            
+            
+            
+            <div id="ms-designer-ribbon">
+                
+                
+                <div>
+	
+	<div id="s4-ribbonrow" style="visibility:hidden;display:none"></div>
+
+</div>
+
+
+            </div>
+            
+            
+            <div id="s4-workspace">
+                <div id="s4-bodyContainer">
+                    
+                    <header>
+                        <div class="TopStrip">
+                             <div class="loginAppStrip visible-xs visible-sm " style="display:none !important"><div class="bojDownloadAppSymbol"></div><div class="bojDownloadDescription"> <span id="lblDownloadApp">×”××¤×œ×™×§×¦×™×” ×©×œ× ×• ×–×ž×™× ×” ×œ×”×•×¨×“×”. ×§×œ, × ×•×— ×•×‘×˜×•×—!</span></div><div class="bojDownloadAppButton"> <a href="/Pages/ApplicationDownloadRedirect.aspx" class="downloadApp" role="button" target="_blank" title="×œ×”×•×¨×“×”"><span id="ctl00_Label4">×œ×”×•×¨×“×”</span></a></div><div class="bojCloseButton"><a href="javascript:void(0);" class="closeAppStrip" role="button" title="×¡×’×•×¨"></a></div></div>
+                            
+                            <div class="leftArea">
+                                <a id="hlAccessibility" class="accessibityBtn" href="javascript:void(0);">× ×’×™×©×•×ª</a>
+                                <a id="hlLanguage" class="languageBtn" aria-label="×œ×—×¥ ×œ××ª×¨ ×‘×× ×’×œ×™×ª" href="/en/Pages/Login.aspx">EN</a>                                
+                        <a id="helpPanel" class="helpPanel" role="button">×©×™×¨×•×ª ×•×ª×ž×™×›×”</a>
+                             </div>
+                          
+
+
+                       <div class="helpPanelContainer" id="helpPanelContainer">
+                                <div class="container">
+                               <strong class="ttl">××™×š ××¤×©×¨ ×œ×¢×–×•×¨?  </strong>      
+                                  <ul class="help-list">
+                                     <li class="HelpPanelContactUsFlag">
+                                        <span class="ico">
+                                             <img src="/Style Library/boj/images/TNA/ico-help-01.png" alt="">
+                                        </span>
+                                        <span class="txt">×“×‘×¨ ××™×ª× ×• </span>
+                                        <a href="#" target="_blank" aria-label="×ž×¡×¤×¨ ×˜×œ×¤×•×Ÿ 5727*" id="HelpPanelContactUsFlag">
+                                            <span class="phone-number-helpbox"><span>5727* </span></span>
+                                        </a>
+                                    </li>
+                                    <li class="HelpPanelISMSFlag">
+                                        <a href="#" target="_blank" id="HelpPanelISMSFlag">
+                                                <span class="ico">
+                                                    <img src="/Style Library/boj/images/TNA/iphone-sms-png.png" alt="">
+                                                </span>
+                                            <span class="txt">×”×ª×›×ª×‘ ×¢× ×‘× ×§××™ ×‘-SMS </span>
+                                        </a>
+                                    </li>
+                                    <li class="HelpPanelWhatsAppFlag">
+                                        <a href='' target="_blank" id="HelpPanelWhatsAppFlag">
+                                                <span class="ico">
+                                                    <img src="/Style Library/boj/images/TNA/whatsapp-png.png" alt="">
+                                                </span>
+                                            <span class="txt">×œ×ž×©×œ×•×— ×‘ whatsApp </span>
+                                        </a>
+                                    </li>
+                                    <li class="HelpPanelChatFlag">
+                                        <a href="javascript:void(0)" id="HelpPanelChatFlag">
+                                                <span class="ico">
+                                                    <img src="/Style Library/boj/images/TNA/bankai-png.png" alt="">
+                                                </span>
+                                            <span class="txt">×¦&#39;××˜ ×¢× ×‘× ×§××™ </span>
+                                        </a>
+                                    </li>
+                             </ul>
+                                    <a href="#" class="btn-close" role="button" id="close-help-panel">×¡×’×•×¨</a>
+                               </div>
+
+
+                        </div>
+
+                        </div>
+                        <div class="LogoContainer">
+                            <a id="hlLogo" title="×¢×ž×•×“ ×¨××©×™ - ×‘× ×§ ×™×¨×•×©×œ×™×" class="logo" href="https://www.bankjerusalem.co.il/">×¢×ž×•×“ ×¨××©×™ - ×‘× ×§ ×™×¨×•×©×œ×™×</a>
+                        </div>
+                    </header>
+                                        
+
+                    
+                    
+                    <div id="MSO_ContentDiv" class="MainContent container" ng-app="boj">
+	
+                        <div class="row">
+                            <div class="col-xs-12">
+                                
+                                
+    <div id="BojWpzWideWPZ">
+	<div class="WpBody">
+		<div id="ctl00_SPWebPartManager1_g_73540c81_e46c_4848_b6a2_d0f6d3aaf466">
+	
+<script>
+    var passportRegex = '^[A-Za-z0-9]{6,15}$';
+    var showDownloadAppStrip = 'true';
+    var openBankOpenAppFlag = 'true';
+</script>
+<noscript>
+    ×œ×§×•×—/×” ×™×§×¨/×”,<br>
+    ×”××ª×¨ ××™× ×• × ×ª×ž×š ×œ×œ× Javascript <br>
+    × ×“×¨×© ×œ×©× ×•×ª ×”×’×“×¨×•×ª ×“×¤×“×¤×Ÿ ×œ×ª×ž×™×›×” ×‘-Javascript
+</noscript>
+
+
+
+
+
+<div class="tnaLogin">  
+   
+        <div class="modal fade" id="ServiceErrorModal" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="inner-wrapper">
+                            <h3>×©×’×™××” ×›×œ×œ×™×ª</h3>
+                            <p>×œ× × ×™×ª×Ÿ ×œ×‘×¦×¢ ××ª ×”×¤×¢×•×œ×” ×›×¢×ª, ×× × × ×¡×” ×©× ×™×ª ×ž××•×—×¨ ×™×•×ª×¨ ××• ×¤× ×” ×œ×ž×•×§×“ ×”×‘× ×§ ×‘×˜×œ×¤×•×Ÿ 5727*</p>
+                            <footer>  
+                                   <input type="button" name="ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$closeErrorMessage" value="×¡×’×•×¨" onclick="return false;__doPostBack(&#39;ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$closeErrorMessage&#39;,&#39;&#39;)" id="closeErrorMessage" title="×¡×’×•×¨" class="btn btn-primary" data-dismiss="modal" AlternateText="×¡×’×•×¨" title="×¡×’×•×¨" />
+                                 
+                                <div class="errorCode">
+                                    <span id="ctl00_SPWebPartManager1_g_73540c81_e46c_4848_b6a2_d0f6d3aaf466_ctl00_lblErrorcode"></span>
+                                </div>
+                            </footer>
+                            <img src="/Style%20Library/boj/images/tna/ico-error-01.svg" alt="image" class="ico error">
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" title="×¡×’×•×¨">×¡×’×•×¨</button>
+                        
+                    </div>
+                </div>
+           </div>
+    <div class="outerWrapper">
+        <div class="form forMobileH1">  
+            
+    <ul class="nav nav-tabs " id="myTab" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link " id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true"><span id="ctl00_SPWebPartManager1_g_73540c81_e46c_4848_b6a2_d0f6d3aaf466_ctl00_ltrSMSTitle1" class="hidden-xs">×›× ×™×¡×” ×¢× ×§×•×“ ×—×“ ×¤×¢×ž×™ ×‘- SMS</span><span id="ctl00_SPWebPartManager1_g_73540c81_e46c_4848_b6a2_d0f6d3aaf466_ctl00_Literal10" class="visible-xs">×›× ×™×¡×” ×¢× ×§×•×“ SMS</span></a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#userPassword" role="tab" aria-controls="userPassword" aria-selected="false"><span id="ctl00_SPWebPartManager1_g_73540c81_e46c_4848_b6a2_d0f6d3aaf466_ctl00_ltrUserPasswordTitle1" class="hidden-xs">×›× ×™×¡×” ×¢× ×©× ×ž×©×ª×ž×© ×•×¡×™×¡×ž×</span><span id="ctl00_SPWebPartManager1_g_73540c81_e46c_4848_b6a2_d0f6d3aaf466_ctl00_Label1" class="visible-xs">×›× ×™×¡×” ×¢× ×¡×™×¡×ž×</span></a>
+        </li>
+    </ul>
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane showTab" id="home" role="tabpanel" aria-labelledby="home-tab">
+       <div class="innerWrapper">
+        <div class="form">
+            
+                    <div class="stepPlaceHolder">
+                        
+                      <div class="connectForm">
+                        <div class="userImg firstImgForH1forOtpLogin"><img src="/Style%20Library/boj/images/tna/ico-user.png" alt="user" /></div>
+                        
+                        <h2 class="NoMarginTop hidden-xs" >×× × ×”×–×Ÿ ×ž×¡×¤×¨ ×ª.×–. ×•×˜×œ×¤×•×Ÿ × ×™×™×“</h2>
+                           <div class="errorMsg">
+                                <ul>
+                                   
+                                    <li class="hide">
+
+                                        
+                                    </li>
+                                </ul>
+                            </div>
+                        <div class="row IdRadioButtons">
+                                        <div class="lblIdmodeRadioButtons lblForm col-xs-4 col-md-4 col-sm-7">
+                                            <label for="txtIdNumber" id="lblIdmodeRadioButtons">×× × ×‘×—×¨ ×¡×•×’ ×–×™×”×•×™:</label>
+                                        </div>
+                                        <div class="idmodeRadioButtons col-xs-8 col-md-6 col-sm-5">
+                                            <span class="radioSpacingElements lblForm"><input id="idMode" type="radio" name="ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$wizardLoginOTPSite$rb_group_clientid" value="idMode" checked="checked" onclick="Boj.Login.rbIdMode_yes_Click();" tabindex="2" /><label for="idMode">×ª.×–</label></span>
+                                            <span class="RadioDot1"></span>
+                                            <span class="lblForm"><input id="passportMode" type="radio" name="ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$wizardLoginOTPSite$rb_group_clientid" value="passportMode" onclick="Boj.Login.rbPassportMode_yes_Click();" tabindex="3" /><label for="passportMode">×“×¨×›×•×Ÿ</label></span>
+                                            <span class="RadioDot2"></span>
+                                        </div>
+                        </div>
+                    <div class="usernameField styledInput">
+                        <input name="ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$wizardLoginOTPSite$txtIdNumber" type="text" id="txtIdNumber" title="×ª×¢×•×“×ª ×–×”×•×ª" Autocomplete="off" onfocus="Boj.Login.HideServerErrorMessage();" placeholder="×ª×¢×•×“×ª ×–×”×•×ª" />
+                        <button id="btnIdNumberTooltip" type="button" class="btn btn-question" data-toggle="tooltip" data-placement="left" title="×ž×¡×¤×¨ ×ª×¢×•×“×ª ×–×”×•×ª ×›×¤×™ ×©×ž×¢×•×“×›×Ÿ ×‘×ž×¢×¨×›×•×ª ×”×‘× ×§">help</button>
+                    </div>
+                    <div class="passwordField styledInput">
+                        <input name="ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$wizardLoginOTPSite$txtMobileNumber" type="text" maxlength="15" id="txtMobileNumber" title="×˜×œ×¤×•×Ÿ × ×™×™×“" onfocus="Boj.Login.HideServerErrorMessage();" Autocomplete="off" placeholder="×˜×œ×¤×•×Ÿ × ×™×™×“" />
+                        <button id="btnMobileNumberTooltip" type="button" class="btn btn-question" data-toggle="tooltip" data-placement="left" title="×ž×¡×¤×¨ ×”×˜×œ×¤×•×Ÿ ×”× ×™×™×“ ×©×œ×š ×›×¤×™ ×©×ž×¢×•×“×›×Ÿ ×‘×ž×¢×¨×›×•×ª ×”×‘× ×§, ×œ×©× × ×©×œ×— ××œ×™×š ××ª ×”×§×•×“ ×”×—×“ ×¤×¢×ž×™ ×œ×¦×•×¨×š ×”×ª×—×‘×¨×•×ª ×œ×—×©×‘×•×Ÿ. 
+×¢×‘×•×¨ × ×™×™×“ ×—×•&quot;×œ ×™×© ×œ×”×•×¡×™×£ ××ª ×”×¡×¤×¨×•×ª 00 ×œ×¤× ×™ ×ª×—×™×œ×ª ×”×ž×¡×¤×¨.">help</button>
+                    </div>
+                    </div>
+                   
+                    </div>
+                    <div class="navPlaceHolder row">
+                        
+                       <div class="loginBtn loginBtnSendCode">
+                           <input type="submit" name="ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$wizardLoginOTPSite$StartNavigationTemplateContainerID$btnStartWizard" value="×©×œ×— ×œ×™ ×§×•×“" onclick="Boj.Login.btnStartWizard_click();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$wizardLoginOTPSite$StartNavigationTemplateContainerID$btnStartWizard&quot;, &quot;&quot;, true, &quot;LoginOTP&quot;, &quot;&quot;, false, false))" id="btnStartWizard" tabindex="16" class="spacingBottom" AlternateText="×©×œ×— ×œ×™ ×§×•×“" />
+                </div>
+                      
+                    </div>
+                    <div id="LowerSitePanel" class="joinSite">
+	
+                            <span id="lblVoiceOTPPreText">×œ×§×‘×œ×ª ×§×•×“ ×‘×©×™×—×” ×§×•×œ×™×ª</span>
+                            <a onclick="Boj.Login.btnStartWizard_click();" id="hlVoiceOTP" title="×œ×—×¥ ×›××Ÿ" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$wizardLoginOTPSite$hlVoiceOTP&quot;, &quot;&quot;, true, &quot;LoginOTP&quot;, &quot;&quot;, false, true))">×œ×—×¥ ×›××Ÿ</a>
+                    
+</div> 
+               
+        </div>
+       </div>
+  </div>
+  <div class="tab-pane active" id="userPassword" role="tabpanel" aria-labelledby="profile-tab">
+       <div class="innerWrapper">
+        <div class="form">
+            <div class="connectForm childForm">
+                <div class="userImg firstImgForH1"><img src="/Style%20Library/boj/images/tna/ico-user.png" alt="user" /></div>
+                <h1 class="hidden-xs loginFormTitle noSiteOB">×›× ×™×¡×” ×œ×—×©×‘×•×Ÿ ×©×œ×™</h1>
+             
+
+                <h2 class="hidden-xs loginFormSubTitle">×× × ×”×–×Ÿ ×©× ×ž×©×ª×ž×© ×•×¡×™×¡×ž×</h2>
+
+                 <div class="errorMsg">
+                    <ul>
+                        
+                        <li class="hide" aria-live="assertive" role="alert"></li>
+                        <li class="hide" aria-live="assertive" role="alert"></li>
+                        <li class="hide" aria-live="assertive" role="alert"></li>
+                        <li class="hide" aria-live="assertive" role="alert"></li>
+                        <li class="hide" aria-live="assertive" role="alert"></li>
+                        <li class="hide" aria-live="assertive" role="alert"></li>
+                    </ul>
+                </div>
+                <div class="usernameField styledInput">
+                    <input name="ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$txtUsername" type="text" maxlength="15" id="txtUsername" title="×©× ×ž×©×ª×ž×©" onfocus="Boj.Login.HideServerErrorMessage();" placeholder="×©× ×ž×©×ª×ž×©" />
+                    <button id="ctl00_SPWebPartManager1_g_73540c81_e46c_4848_b6a2_d0f6d3aaf466_ctl00_btnUsernameTooltip" type="button" class="btn btn-question" data-toggle="tooltip" data-placement="left" title="×©× ×”×ž×©×ª×ž×© × ×™×ª×Ÿ ×œ×š ×‘×¢×ª ×”×”×¦×˜×¨×¤×•×ª ×œ×©×™×¨×•×ª×™ ×”××™× ×˜×¨× ×˜ ×•×”×•× ×ž×•×¨×›×‘ ×ž××•×ª×™×•×ª ×œ×•×¢×–×™×•×ª ×•×¡×¤×¨×•×ª. ×œ××—×¨ ×”×ª×—×‘×¨×•×ª ×œ×—×©×‘×•×Ÿ ×ª×•×›×œ ×œ×©× ×•×ª ××ª ×©× ×”×ž×©×ª×ž×©.">help</button>
+                </div>
+                <div class="passwordField styledInput">
+                    <input name="ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$txtPassword" type="password" maxlength="30" id="txtPassword" title="×¡×™×¡×ž×”" onfocus="Boj.Login.HideServerErrorMessage();" autocomplete="off" placeholder="×¡×™×¡×ž×”" />
+                    <button id="ctl00_SPWebPartManager1_g_73540c81_e46c_4848_b6a2_d0f6d3aaf466_ctl00_btnPasswordTooltip" type="button" class="btn btn-question" data-toggle="tooltip" data-placement="left" title="×”×¡×™×¡×ž×” ×ž×•×¨×›×‘×ª ×ž-8 ××•×ª×™×•×ª ×œ×•×¢×–×™×•×ª ×•×¡×¤×¨×•×ª ×•× ×™×ª×Ÿ ×œ×©× ×•×ª×” ×‘×›×œ ×¢×ª ×‘××ª×¨. ×‘×›× ×™×¡×” ×¨××©×•× ×™×ª ×œ××ª×¨ ×™×© ×œ×©× ×•×ª ××ª ×”×¡×™×¡×ž×”.">help</button>
+                </div>
+                <div class="KeyPressNotification">
+                    <div role="tooltip" class="tooltip bottom in">
+	                    <div class="tooltip-arrow"></div>
+	                    <div class="tooltip-inner">
+                            <a href="javascript:void(0)" id="ctl00_SPWebPartManager1_g_73540c81_e46c_4848_b6a2_d0f6d3aaf466_ctl00_aNotificationClose" class="notificationClose" title="×¡×’×•×¨">
+                                ×¡×’×•×¨
+                            </a>
+                            <span id="lblNotificationTitle" class="notificationTitle">×©×™× ×œ×‘!</span>
+                            <span class="CapsLockOn">×”× ×š ×ž×§×œ×™×“ ×‘××•×ª×™×•×ª ×’×“×•×œ×•×ª. ×‘×ž×™×“×” ×•×™×© ×‘×¡×™×¡×ž×” ××•×ª×™×•×ª ×§×˜× ×•×ª ×™×© ×œ×”×§×œ×™×“ ××•×ª×Ÿ ×œ×œ× CapsLock ×œ×—×•×¥</span>
+                            <span class="HebrewLetters">×”×¡×™×¡×ž×” ×ž×•×§×œ×“×ª ×‘××•×ª×™×•×ª ×¢×‘×¨×™×ª, ×™×© ×œ×”×§×œ×™×“ ×¡×™×¡×ž×” ×‘××•×ª×™×•×ª ×œ×•×¢×–×™×•×ª ×‘×œ×‘×“</span>
+	                    </div>
+                    </div>
+                </div>
+                <div class="forgatPassword">
+                    <a id="hlForgetPassword" href="/Pages/ResetPasswordNew.aspx">×©×›×—×ª×™ ×¡×™×¡×ž×” ></a>
+                </div>
+                
+                <div class="loginBtn">
+                    <input type="submit" name="ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$btnConnect" value="×”×ª×—×‘×¨" id="btnConnect" disabled="disabled" class="aspNetDisabled" />
+                </div>
+            </div>
+            <div class="joinSite noSiteOB">
+                <span id="lblJoinSitePreText" class="hidden-xs">×¢×•×“ ×œ× ×”×¦×˜×¨×¤×ª ×œ×©×™×¨×•×ª×™ ×”×“×™×’×™×˜×œ?</span>
+                <a id="hlJoinSite" title="×”×¨×©×ž×” ×œ×©×™×¨×•×ª×™ ×”×‘× ×§" onclick="DCSTrack(&#39;middle&#39;,&#39;Join Bank Jerusalem Link Was Clicked&#39;,&#39;Link&#39;)" href="/Pages/JoinSiteNew.aspx">×”×¦×˜×¨×£ ×¢×›×©×™×•</a>
+            </div>
+             <div class="joinSite loginWithSiteOB hide">
+                <span id="Label2" class="hidden-xs">×¢×•×“ ×œ× ×”×¦×˜×¨×¤×ª ×œ×©×™×¨×•×ª×™ ×”×“×™×’×™×˜×œ?</span>
+                <a id="hlJoinSiteOB" title="×”×¨×©×ž×” ×œ×©×™×¨×•×ª×™ ×”×‘× ×§" onclick="DCSTrack(&#39;middle&#39;,&#39;Join Bank Jerusalem Link Was Clicked&#39;,&#39;Link&#39;)">×”×¦×˜×¨×£ ×¢×›×©×™×•</a>
+            </div>
+        </div>
+    </div>
+  </div>
+</div></div>
+    <div class="info">
+            
+            <div id="infoDefaultPanel">
+	
+                <h2 class="title noSiteOB">×”××¤×œ×™×§×¦×™×” ×”×—×“×©×” ×©×œ× ×•</h2>
+                <h2 class="title loginWithSiteOB hide">×–×” ×”×–×ž×Ÿ ×œ×”×–×“×”×•×ª</h2>
+
+                <p class="desc noSiteOB">×ž×—×›×” ×œ×›× ×¢×›×©×™×• ×‘×—× ×•×™×•×ª ×•××ª× ×ž×•×–×ž× ×™× ×œ×™×”× ×•×ª ×ž×ž× ×”!</p>
+                <p class="desc loginWithSiteOB hide">×‘×›×“×™ ×©× ×•×›×œ ×œ×”×ž×©×™×š ×‘×ª×”×œ×™×š, × × ×œ×‘×¦×¢ ×”×–×“×”×•×ª ×•×œ××—×¨ ×ž×›×Ÿ × ×ž×©×™×š 
+×œ×ž×¡×›×™ ××™×©×•×¨ ×”×”×¡×›×ž×” ×©×œ×š.</p>
+                <div class="link">
+                    <a href="https://services.bankjerusalem.co.il/Pages/ApplicationDownloadRedirect.aspx" id="ctl00_SPWebPartManager1_g_73540c81_e46c_4848_b6a2_d0f6d3aaf466_ctl00_aInfoLink" class="noSiteOB" target="_blank" title="×œ×ž×™×“×¢ × ×•×¡×£">
+                        ×œ×”×•×¨×“×” ×ž×”×™×¨×” >
+                    </a>
+                    <a href="https://www.bankjerusalem.co.il/others/otp" id="ctl00_SPWebPartManager1_g_73540c81_e46c_4848_b6a2_d0f6d3aaf466_ctl00_a1" class="loginWithSiteOB hide" target="_blank" title="×œ×ž×™×“×¢ × ×•×¡×£">
+                        
+                    </a>
+                </div>
+            
+</div>
+        </div>
+        </div>
+
+    <span class="loader3DotsText hide">×× × ×”×ž×ª×Ÿ</span>
+    <input type="hidden" name="ctl00$SPWebPartManager1$g_73540c81_e46c_4848_b6a2_d0f6d3aaf466$ctl00$hidTAB" id="hidTAB" value="userPassword" />
+</div>
+
+</div>
+	</div>
+</div>
+
+<div style='display:none' id='hidZone'></div>
+                            </div>
+                        </div>
+                    
+</div>
+                    
+
+                    
+                    <footer class="FooterContainer">
+                        <div class="container">
+                            <ul class="links">
+                                <li>
+                                  <a id="HlSecure" target="_blank"><span id="lblFooter1">×ª×”×œ×™×š ×ž××•×‘×˜×— SSL</span></a>
+                                </li>
+                            <li><i class="icon ico-tel"></i><a id="hlSupport" class="hidden-xs" href="https://www.bankjerusalem.co.il/support" target="_blank">×ž×•×§×“ ×©×™×¨×•×ª 5727*</a>
+                                <a id="hlSupportTel" class="visible-xs-inline-block" href="tel:*5727" target="_blank">×ž×•×§×“ ×©×™×¨×•×ª 5727*</a></li>
+                           <li>
+                               <a id="hlTerms" href="https://www.bankjerusalem.co.il/others/trial" target="_blank">×ª× ××™× ×ž×©×¤×˜×™×™×</a>
+                           </li>
+                           <li>
+                               <i class="icon ico-hlSafeSurfing"></i>
+                               <a id="hlSafeSurfing" href="https://www.bankjerusalem.co.il/others/security.aspx" target="_blank">×’×œ×™×©×” ×‘×˜×•×—×”</a>
+                           </li>
+                            </ul>
+                            <div class="disclaimer">
+                                <span id="lblDisclaimer">×”×’×œ×™×©×” ×‘××ª×¨ ×‘× ×§ ×™×¨×•×©×œ×™× ×‘×¢"×ž (×œ×”×œ×Ÿ: "×‘× ×§ ×™×¨×•×©×œ×™×" ××• "×”×‘× ×§"), ×œ×¨×‘×•×ª ××ª×¨ ×”×œ×§×•×—×•×ª, ×•×”×©×™×ž×•×© ×‘× ×ª×•× ×™×, ×‘×ž×™×“×¢, ×‘×©×¨×•×ª×™× ×•×‘×›×œ×™× ×”×ž×¦×•×™×™× ×‘×• ×›×¤×•×¤×™× ×œ×”×•×¨××•×ª, ×œ×ª× ××™× ×•×œ×¡×™×™×’×™× ×”×ž×¤×•×¨×˜×™× ×œ×”×œ×Ÿ ("×ª× ××™ ×”×’×œ×™×©×”"). ×›×œ ×”×–×›×•×™×•×ª ×©×ž×•×¨×•×ª ×œ××ª×¨ ×‘× ×§ ×™×¨×•×©×œ×™×. ××™×Ÿ ×œ×¢×©×•×ª ×›×œ ×©×™×ž×•×© ×‘×ª×›× ×™ ×”××ª×¨ ×œ×œ× ×§×‘×œ×ª ××™×©×•×¨ ×‘×›×ª×‘ ×•×ž×¨××© ×ž×‘× ×§ ×™×¨×•×©×œ×™×. ×œ×ª×©×•×ž×ª ×œ×‘×š, ×¤×¨×˜×™ ×’×œ×™×©×ª×š ×‘××ª×¨ ×”×‘× ×§ × ×©×ž×¨×™× ×‘×ž××’×¨×™ ×”×ž×™×“×¢ ×©×œ ×”×‘× ×§. ×’×œ×™×©×” ×‘××ª×¨ ×”×‘× ×§ ×•×”×©××¨×ª ×¤×¨×˜×™× ×‘×• ×ž×”×•×•×™× ×”×¡×›×ž×” ×œ×©×ž×™×¨×ª× ×¢×œ ×™×“×™ ×”×‘× ×§. ×”×ž×™×“×¢ ×™×©×ž×© ×œ×¦×•×¨×š × ×™×”×•×œ, ×ª×¤×¢×•×œ ×•×˜×™×¤×•×œ ×‘×›×œ ×©×™×¨×•×ª ××•×ª×• ××‘×§×© ×ž×”×‘× ×§.</span>                                    
+                            </div>
+                        </div>
+                    </footer>
+                    
+                </div>
+            </div>
+        
+            
+            <div id="DeltaFormDigest">
+	
+                
+                    
+                    <script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0xFD7BD30861D1360AEB109D5196665D0D8001C1E6CDC5620B49FD2004D9AB670F676DD04C78D1B15E45902B5975B750D0DD20275E01556972F8521711FB7044B7,06 Jul 2023 07:59:18 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+                
+            
+</div>
+              <div id="ctl00_WelcomeV3_pnlWelcomeContainer" class="WelcomeContainer notLoggedIn" class="WelcomeContainer">
+	
+    <div id="ctl00_WelcomeV3_pnlUserLogin" class="LoginArea">
+	
+        <a href="https://services.bankjerusalem.co.il/Pages/Login.aspx" id="ctl00_WelcomeV3_aLogin" class="loginLink" title="×œ×—×¥ ×¢×œ ×ž× ×ª ×œ×”×ª×—×‘×¨">
+            <span id="lblLogin">×›× ×™×¡×” ×œ×—×©×‘×•× ×š</span>
+        </a>
+        <a href="https://services.bankjerusalem.co.il/Pages/JoinSiteNew.aspx" id="ctl00_WelcomeV3_aJoinSite" title="×œ×—×¥ ×œ×”×¦×˜×¨×¤×•×ª">
+            ×”×¦×˜×¨×¤×•×ª
+        </a>
+    
+</div>
+
+<div class="LogoutAndPersonalDetailsControl">
+<div id="ctl00_WelcomeV3_LogoutAndPersonalDetails_pnlLogoutAndPersonalDetails" class="LogoutAndPersonalDetails">
+	<input type="image" name="ctl00$WelcomeV3$LogoutAndPersonalDetails$imgbtnLogoutAndPersonalDetails" id="ctl00_WelcomeV3_LogoutAndPersonalDetails_imgbtnLogoutAndPersonalDetails" title="×œ××–×•×¨ ××™×©×™ ×•×™×¦×™××”" class="logoutAndPersonalDetailsBtn" OnMouseOver="this.src=&#39;/Style%20Library/boj/images/LogoutAndPersonalDetails/personal-zone.png&#39;" OnMouseOut="this.src=&#39;/Style%20Library/boj/images/LogoutAndPersonalDetails/personal-zone.png&#39;" OnFocus="this.src=&#39;/Style%20Library/boj/images/LogoutAndPersonalDetails/personal-zone.png&#39;" OnBlur="this.src=&#39;/Style%20Library/boj/images/LogoutAndPersonalDetails/personal-zone.png&#39;" src="/Style%20Library/boj/images/LogoutAndPersonalDetails/personal-zone.png" onclick="return false;" />
+
+</div>  
+
+
+</div>
+
+
+ 
+
+  
+
+</div>
+
+<script>
+    var HelpPanelIsActive = "true";
+
+    var HelpPanelContactUsFlag =  "true";
+    var HelpPanelISMSFlag =  "true";
+    var HelpPanelWhatsAppFlag =  "false";
+    var HelpPanelChatFlag =  "true";
+
+    var HelpPanelSmsNumber =  "0528309712";
+    var HelpPanelWhatsAppNumber =  "0524289147";
+    var HelpPanelChatScript = " T4fifPCLDxxQdt8q5tnElg%3d%3d";
+    var HelpPanelTechnicalSupport = "https://www.bankjerusalem.co.il/support";
+    var HelpPanelContactUs = "https://www.bankjerusalem.co.il/support/sms";
+</script>
+
+
+
+        
+
+<script type="text/javascript">
+//<![CDATA[
+EnvironmentType = "production"; 
+var _spFormDigestRefreshInterval = 1440000; IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{6d585904-5c73-4cc9-93bb-aff77f659149}",itemId: 194,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+//]]>
+</script>
+</form>
+
+        
+        <span id="DeltaPlaceHolderUtilityContent">
+            
+            
+        </span>
+
+        <script type="text/javascript" src="/_layouts/15/BankJerusalem/scripts/jquery/jquery-3.5.1.min.js"></script>
+<script type="text/javascript" src="/_layouts/15/BankJerusalem/scripts/bootstrap/bootstrap-3.3.5.js"></script>
+<script type="text/javascript" src="/Style%20Library/boj/V2/External/js/modernizr-2.8.3.min.js"></script>
+<script type="text/javascript" src="/Style%20Library/boj/scripts/global/globalFunctions.js?rev=04072023210742"></script>
+<script type="text/javascript" src="/Style%20Library/boj/scripts/tna/login.js?rev=04072023210742"></script>
+
+
+        
+        
+<!-- AccessibilityScripts Start -->
+<script src="/Style%20Library/boj/scripts/Accessibility.js?rev=04072023210742" defer="defer"></script>
+
+<!-- AccessibilityScripts End -->
+
+<!-- No IncludeScripts -->
+
+<!-- StartupScripts Start -->
+<script type="text/javascript">
+	//<![CDATA[
+	$(function(){
+	AccessibilitySrcTransactions ="https://Negishut.bankjerusalem.co.il/widget/avcp.js?p=9&l=1&c=&s=https%3a%2f%2fwww.bankjerusalem.co.il%2fothers%2faccessibility&j=bankjerusalemcoil&g=7268fb3b-b221-45a5-b06a-299f5c1cea9c";
+	AccessibilityLoaded="false"
+	$('.open_accessibility_panel').hide();$('.accessibityBtn').on('click',Boj.Accessibility.AccessibilityScriptLoading);
+	});
+	//]]>
+</script>
+<!-- StartupScripts End -->
+
+
+         <!-- BOJ Version: 1.0 MP4 -->
+    </body>
+</html>

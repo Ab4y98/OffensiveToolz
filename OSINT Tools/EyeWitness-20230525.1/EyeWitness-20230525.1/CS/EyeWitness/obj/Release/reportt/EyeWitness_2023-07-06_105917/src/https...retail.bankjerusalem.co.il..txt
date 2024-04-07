@@ -1,0 +1,107 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="format-detection" content="telephone=no" />
+		<meta http-equiv="X-UA-Compaible" content="IE=edge" />
+		<meta http-equiv="cache-control" content="no-cache, must-revalidate, post-check=0, pre-check=0" />
+		<meta http-equiv="cache-control" content="max-age=0" />
+		<meta http-equiv="Expires" content="0" />
+		<meta http-equiv="Expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+		<meta http-equiv="pragma" content="no-cache" />
+		<link rel="shortcut icon" href="https://retail.bankjerusalem.co.il/favicon.ico" type="image/vnd.microsoft.icon" id="favicon" />
+		<link rel="canonical" href="https://retail.bankjerusalem.co.il/" />
+		<title>× ×§×•×“×•×ª ×ž×›×™×¨×” - ×‘× ×§ ×™×¨×•×©×œ×™×</title>
+		<meta name="description" content="× ×§×•×“×•×ª ×ž×›×™×¨×”" />
+		<meta name="keywords" content="× ×§×•×“×•×ª ×ž×›×™×¨×”" />
+		<link rel="shortcut icon" href="https://retail.bankjerusalem.co.il/WebApp/Images/SellPoints/fvlogo.jpg" />
+		<meta name="mobile-web-app-capable" content="yes" />
+<style type="text/css">[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak { display: none !important; }</style>
+
+        <!-- GlassBox  -->
+         <script type="text/javascript">
+//<![CDATA[
+window["_tsbp_"] = { ba : "X-TS-BP-Action", bh : "X-TS-AJAX-Request"};
+//]]>
+</script><script type="text/javascript" src="/TSbd/086229b7b6ab20003ce02979178952ec31250c9d36f6aff64f2e4a6feb5dd95f35e255bd786ca78f?type=2"></script><script type="text/javascript" id="_cls_detector" src="https://cdn.glassboxcdn.com/jbnk/detector-dom.min.js?rev=6.3.88B112" async="true" data-clsconfig="reportURI=https://report.jbnk.glassboxdigital.io/glassbox/reporting/F8B7A357-49F0-3C51-6D73-98490968184D/cls_report; recordErrors=true;recordScrolls=true;recordMouseMoves=true;"></script>
+        <!-- End GlassBox -->
+    </head>
+    <body>
+        
+
+<div class="SellPoints" ng-app="boj">
+    <div ng-controller="TimeoutController as timeoutCtrl" ng-cloak>
+        <div ng-include="timeoutCtrl.GetTimeoutModal()"></div>
+        <div ng-controller="SellPointsController as sellPointsCtrl" class="SellPointsCtrlClass">
+            <ng-view class="page" ng-class="sellPointsCtrl.Diraction"></ng-view>
+
+            <div class="modal fade" id="ServiceErrorModal" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="inner-wrapper">
+                            <h3>{{sellPointsCtrl.GetLblValue('Lbl10092')}}</h3>
+                            <p>{{sellPointsCtrl.ModalError}}</p>
+                            <footer>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal">{{sellPointsCtrl.GetLblValue('Lbl10095')}}</button>
+                            </footer>
+                            <img src="/WebApp/Images/Loans/ico-error-01.svg" alt="image" class="ico error">
+                             <div class="errorCode" ng-show="sellPointsCtrl.ErrorCode!=''">
+                                {{sellPointsCtrl.GetSessionId()}}-{{sellPointsCtrl.ErrorCode}} :×§×•×“
+                            </div>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" title="{{sellPointsCtrl.GetLblValue('Lbl10093')}}">{{sellPointsCtrl.GetLblValue('Lbl10093')}}</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="RedirectErrorModal" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="inner-wrapper">
+                            <h3>{{sellPointsCtrl.GetLblValue('Lbl10092')}}</h3>
+                            <p class="angularWithNewLines">{{sellPointsCtrl.ModalError}}</p>
+                            <footer>
+                                <button data-ng-click="sellPointsCtrl.redirectToStrat();" type="button" class="btn btn-primary" data-dismiss="modal">{{sellPointsCtrl.GetLblValue('Lbl10095')}}</button>
+                            </footer>
+                            <img src="/WebApp/Images/Loans/ico-error-01.svg" alt="image" class="ico error">
+                        </div>
+                        <button data-ng-click="sellPointsCtrl.redirectToStrat();" type="button" class="btn-close" data-dismiss="modal" title="{{sellPointsCtrl.GetLblValue('Lbl10093')}}">{{sellPointsCtrl.GetLblValue('Lbl10093')}}</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var bojWebVersion = '1612170967';
+    var sessionId = 'frz';
+</script>
+
+        <script src='/WebApp/Scripts/External/jquery-3.5.1.min.js'?rev=1612170967'defer'></script>
+<script src='/WebApp/Scripts/External/jquery-migrate-3.3.2.min.js'?rev=1612170967'defer'></script>
+<script src='/WebApp/Scripts/External/jquery-ui-1.11.4.js' defer='defer'></script>
+<script src='/WebApp/Scripts/Angular/angularPackage.js?rev=1612170967' defer='defer'></script>
+<script src='/WebApp/Scripts/Loans/loansPlugins.js?rev=1612170967' defer='defer'></script>
+<script src='/WebApp/Scripts/External/modernizr-2.8.3.min.js' defer='defer'></script>
+<script src='/WebApp/Scripts/Angular/commonAngular.js?rev=1612170967' defer='defer'></script>
+<script src='/WebApp/Scripts/Angular/angular-animate-1.4.3.js' defer='defer'></script>
+<script src='/WebApp/Scripts/External/ui-bootstrap-tpls-0.14.3.min.js?rev=1612170967' defer='defer'></script>
+<script src='/WebApp/Scripts/SellPoints/SellPoints.js?rev=1612170967' defer='defer'></script>
+<script src='/WebApp/Scripts/SellPoints/Common.js?rev=1612170967' defer='defer'></script>
+<script src='/WebApp/Scripts/External/mobiscroll/mobiscroll.custom-3.2.2.min.js?rev=1612170967' defer='defer'></script>
+<link href='/WebApp/Styles/bootstrap/v3.3.4/bootstrap.css' rel='stylesheet'/>
+<link href='/WebApp/Styles/bootstrap/v3.3.4/bootstrap-rtl.css' rel='stylesheet'/>
+<link href='/WebApp/Styles/bootstrap/v3.3.4/bootstrap-custom.css' rel='stylesheet'/>
+<link href='/WebApp/Styles/jquery/jquery-ui-1.11.4.css' rel='stylesheet'/>
+<link href='/WebApp/Styles/SellPoints/Common.css?rev=1612170967' rel='stylesheet'/>
+<link href='/WebApp/Styles/SellPoints/SellPoints.css?rev=1612170967' rel='stylesheet'/>
+<link href='/WebApp/Styles/External/mobiscroll/mobiscroll.custom-3.2.2.min.css?rev=1612170967' rel='stylesheet'/>
+
+        
+
+    </body>
+</html>
