@@ -1,1 +1,1 @@
-# A list of of offensive tools for penetration test or red teamining
+# A list of offensive tools for red teaming or penetration testing
