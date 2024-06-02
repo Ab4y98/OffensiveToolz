@@ -10,3 +10,6 @@
 [submodule "Invoke-TheHash"]
 	path = Invoke-TheHash
 	url = https://github.com/Kevin-Robertson/Invoke-TheHash
+[submodule "PsMapExec"]
+	path = PsMapExec
+	url = https://github.com/The-Viper-One/PsMapExec.git
