@@ -13,3 +13,6 @@
 [submodule "PsMapExec"]
 	path = PsMapExec
 	url = https://github.com/The-Viper-One/PsMapExec.git
+[submodule "ROADtools"]
+	path = ROADtools
+	url = https://github.com/dirkjanm/ROADtools
