@@ -16,3 +16,6 @@
 [submodule "ROADtools"]
 	path = ROADtools
 	url = https://github.com/dirkjanm/ROADtools
+[submodule "PowerSharpPack"]
+	path = PowerSharpPack
+	url = https://github.com/S3cur3Th1sSh1t/PowerSharpPack.git
