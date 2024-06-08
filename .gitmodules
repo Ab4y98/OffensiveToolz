@@ -22,3 +22,6 @@
 [submodule "impacket-examples-windows"]
 	path = impacket-examples-windows
 	url = https://github.com/maaaaz/impacket-examples-windows
+[submodule "CrackMapExecWin"]
+	path = CrackMapExecWin
+	url = https://github.com/maaaaz/CrackMapExecWin.git
