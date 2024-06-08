@@ -19,3 +19,6 @@
 [submodule "PowerSharpPack"]
 	path = PowerSharpPack
 	url = https://github.com/S3cur3Th1sSh1t/PowerSharpPack.git
+[submodule "impacket-examples-windows"]
+	path = impacket-examples-windows
+	url = https://github.com/maaaaz/impacket-examples-windows
