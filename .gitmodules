@@ -25,3 +25,6 @@
 [submodule "CrackMapExecWin"]
 	path = CrackMapExecWin
 	url = https://github.com/maaaaz/CrackMapExecWin.git
+[submodule "PowerUpSQL"]
+	path = PowerUpSQL
+	url = https://github.com/NetSPI/PowerUpSQL.git
