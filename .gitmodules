@@ -28,3 +28,6 @@
 [submodule "PowerUpSQL"]
 	path = PowerUpSQL
 	url = https://github.com/NetSPI/PowerUpSQL.git
+[submodule "venom-rs"]
+	path = venom-rs
+	url = https://github.com/memN0ps/venom-rs.git
