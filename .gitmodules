@@ -31,3 +31,6 @@
 [submodule "venom-rs"]
 	path = venom-rs
 	url = https://github.com/memN0ps/venom-rs.git
+[submodule "Evasion/BestEdrOfTheMarket"]
+	path = Evasion/BestEdrOfTheMarket
+	url = https://github.com/Xacone/BestEdrOfTheMarket.git
